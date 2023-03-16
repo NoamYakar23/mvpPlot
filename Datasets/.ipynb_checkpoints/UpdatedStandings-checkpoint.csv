@@ -1,0 +1,2581 @@
+,,Team,W,L,Pct,GB,,Year
+0,,Team,W,L,Pct,GB,,2021
+1,1,Phoenix Suns,64,18,.780,-,x,2021
+2,2,Memphis Grizzlies,56,26,.683,8.0,x,2021
+3,3,Golden State Warriors,53,29,.646,11.0,x,2021
+4,4,Dallas Mavericks,52,30,.634,12.0,x,2021
+5,5,Utah Jazz,49,33,.598,15.0,x,2021
+6,6,Denver Nuggets,48,34,.585,16.0,x,2021
+7,7,Minnesota Timberwolves,46,36,.561,18.0,x,2021
+8,8,New Orleans Pelicans,36,46,.439,28.0,x,2021
+9,9,Los Angeles Clippers,42,40,.512,22.0,pi,2021
+10,10,San Antonio Spurs,34,48,.415,30.0,pi,2021
+11,11,Los Angeles Lakers,33,49,.402,31.0,,2021
+12,12,Sacramento Kings,30,52,.366,34.0,,2021
+13,13,Portland Trail Blazers,27,55,.329,37.0,,2021
+14,14,Oklahoma City Thunder,24,58,.293,40.0,,2021
+15,15,Houston Rockets,20,62,.244,44.0,,2021
+16,,Team,W,L,Pct,GB,,2021
+17,1,Miami Heat,53,29,.646,-,x,2021
+18,2,Boston Celtics,51,31,.622,2.0,x,2021
+19,3,Milwaukee Bucks,51,31,.622,2.0,x,2021
+20,4,Philadelphia 76ers,51,31,.622,2.0,x,2021
+21,5,Toronto Raptors,48,34,.585,5.0,x,2021
+22,6,Chicago Bulls,46,36,.561,7.0,x,2021
+23,7,Brooklyn Nets,44,38,.537,9.0,x,2021
+24,8,Atlanta Hawks,43,39,.524,10.0,x,2021
+25,9,Cleveland Cavaliers,44,38,.537,9.0,pi,2021
+26,10,Charlotte Hornets,43,39,.524,10.0,pi,2021
+27,11,New York Knicks,37,45,.451,16.0,,2021
+28,12,Washington Wizards,35,47,.427,18.0,,2021
+29,13,Indiana Pacers,25,57,.305,28.0,,2021
+30,14,Detroit Pistons,23,59,.280,30.0,,2021
+31,15,Orlando Magic,22,60,.268,31.0,,2021
+32,,Team,W,L,Pct,GB,,2021
+33,1,Utah Jazz,49,33,.598,-,x,2021
+34,2,Denver Nuggets,48,34,.585,1.0,x,2021
+35,3,Minnesota Timberwolves,46,36,.561,3.0,x,2021
+36,4,Portland Trail Blazers,27,55,.329,22.0,,2021
+37,5,Oklahoma City Thunder,24,58,.293,25.0,,2021
+38,,Team,W,L,Pct,GB,,2021
+39,1,Phoenix Suns,64,18,.780,-,x,2021
+40,2,Golden State Warriors,53,29,.646,11.0,x,2021
+41,3,Los Angeles Clippers,42,40,.512,22.0,pi,2021
+42,4,Los Angeles Lakers,33,49,.402,31.0,,2021
+43,5,Sacramento Kings,30,52,.366,34.0,,2021
+44,,Team,W,L,Pct,GB,,2021
+45,1,Memphis Grizzlies,56,26,.683,-,x,2021
+46,2,Dallas Mavericks,52,30,.634,4.0,x,2021
+47,3,New Orleans Pelicans,36,46,.439,20.0,x,2021
+48,4,San Antonio Spurs,34,48,.415,22.0,pi,2021
+49,5,Houston Rockets,20,62,.244,36.0,,2021
+50,,Team,W,L,Pct,GB,,2021
+51,1,Boston Celtics,51,31,.622,-,x,2021
+52,2,Philadelphia 76ers,51,31,.622,-,x,2021
+53,3,Toronto Raptors,48,34,.585,3.0,x,2021
+54,4,Brooklyn Nets,44,38,.537,7.0,x,2021
+55,5,New York Knicks,37,45,.451,14.0,,2021
+56,,Team,W,L,Pct,GB,,2021
+57,1,Milwaukee Bucks,51,31,.622,-,x,2021
+58,2,Chicago Bulls,46,36,.561,5.0,x,2021
+59,3,Cleveland Cavaliers,44,38,.537,7.0,pi,2021
+60,4,Indiana Pacers,25,57,.305,26.0,,2021
+61,5,Detroit Pistons,23,59,.280,28.0,,2021
+62,,Team,W,L,Pct,GB,,2021
+63,1,Miami Heat,53,29,.646,-,x,2021
+64,2,Atlanta Hawks,43,39,.524,10.0,x,2021
+65,3,Charlotte Hornets,43,39,.524,10.0,pi,2021
+66,4,Washington Wizards,35,47,.427,18.0,,2021
+67,5,Orlando Magic,22,60,.268,31.0,,2021
+68,,Team,W,L,Pct,GB,,2020
+69,1,Utah Jazz,52,20,.722,-,x,2020
+70,2,Phoenix Suns,51,21,.708,1.0,x,2020
+71,3,Denver Nuggets,47,25,.653,5.0,x,2020
+72,4,Los Angeles Clippers,47,25,.653,5.0,x,2020
+73,5,Dallas Mavericks,42,30,.583,10.0,x,2020
+74,6,Portland Trail Blazers,42,30,.583,10.0,x,2020
+75,7,Los Angeles Lakers,42,30,.583,10.0,x,2020
+76,8,Memphis Grizzlies,38,34,.528,14.0,x,2020
+77,9,Golden State Warriors,39,33,.542,13.0,pi,2020
+78,10,San Antonio Spurs,33,39,.458,19.0,pi,2020
+79,11,New Orleans Pelicans,31,41,.431,21.0,,2020
+80,12,Sacramento Kings,31,41,.431,21.0,,2020
+81,13,Minnesota Timberwolves,23,49,.319,29.0,,2020
+82,14,Oklahoma City Thunder,22,50,.306,30.0,,2020
+83,15,Houston Rockets,17,55,.236,35.0,,2020
+84,,Team,W,L,Pct,GB,,2020
+85,1,Philadelphia 76ers,49,23,.681,-,x,2020
+86,2,Brooklyn Nets,48,24,.667,1.0,x,2020
+87,3,Milwaukee Bucks,46,26,.639,3.0,x,2020
+88,4,New York Knicks,41,31,.569,8.0,x,2020
+89,5,Atlanta Hawks,41,31,.569,8.0,x,2020
+90,6,Miami Heat,40,32,.556,9.0,x,2020
+91,7,Boston Celtics,36,36,.500,13.0,x,2020
+92,8,Washington Wizards,34,38,.472,15.0,x,2020
+93,9,Indiana Pacers,34,38,.472,15.0,pi,2020
+94,10,Charlotte Hornets,33,39,.458,16.0,pi,2020
+95,11,Chicago Bulls,31,41,.431,18.0,,2020
+96,12,Toronto Raptors,27,45,.375,22.0,,2020
+97,13,Cleveland Cavaliers,22,50,.306,27.0,,2020
+98,14,Orlando Magic,21,51,.292,28.0,,2020
+99,15,Detroit Pistons,20,52,.278,29.0,,2020
+100,,Team,W,L,Pct,GB,,2020
+101,1,Utah Jazz,52,20,.722,-,x,2020
+102,2,Denver Nuggets,47,25,.653,5.0,x,2020
+103,3,Portland Trail Blazers,42,30,.583,10.0,x,2020
+104,4,Minnesota Timberwolves,23,49,.319,29.0,,2020
+105,5,Oklahoma City Thunder,22,50,.306,30.0,,2020
+106,,Team,W,L,Pct,GB,,2020
+107,1,Phoenix Suns,51,21,.708,-,x,2020
+108,2,Los Angeles Clippers,47,25,.653,4.0,x,2020
+109,3,Los Angeles Lakers,42,30,.583,9.0,x,2020
+110,4,Golden State Warriors,39,33,.542,12.0,pi,2020
+111,5,Sacramento Kings,31,41,.431,20.0,,2020
+112,,Team,W,L,Pct,GB,,2020
+113,1,Dallas Mavericks,42,30,.583,-,x,2020
+114,2,Memphis Grizzlies,38,34,.528,4.0,x,2020
+115,3,San Antonio Spurs,33,39,.458,9.0,pi,2020
+116,4,New Orleans Pelicans,31,41,.431,11.0,,2020
+117,5,Houston Rockets,17,55,.236,25.0,,2020
+118,,Team,W,L,Pct,GB,,2020
+119,1,Philadelphia 76ers,49,23,.681,-,x,2020
+120,2,Brooklyn Nets,48,24,.667,1.0,x,2020
+121,3,New York Knicks,41,31,.569,8.0,x,2020
+122,4,Boston Celtics,36,36,.500,13.0,x,2020
+123,5,Toronto Raptors,27,45,.375,22.0,,2020
+124,,Team,W,L,Pct,GB,,2020
+125,1,Milwaukee Bucks,46,26,.639,-,x,2020
+126,2,Indiana Pacers,34,38,.472,12.0,pi,2020
+127,3,Chicago Bulls,31,41,.431,15.0,,2020
+128,4,Cleveland Cavaliers,22,50,.306,24.0,,2020
+129,5,Detroit Pistons,20,52,.278,26.0,,2020
+130,,Team,W,L,Pct,GB,,2020
+131,1,Atlanta Hawks,41,31,.569,-,x,2020
+132,2,Miami Heat,40,32,.556,1.0,x,2020
+133,3,Washington Wizards,34,38,.472,7.0,x,2020
+134,4,Charlotte Hornets,33,39,.458,8.0,pi,2020
+135,5,Orlando Magic,21,51,.292,20.0,,2020
+136,,Team,W,L,Pct,GB,,2019
+137,1,Los Angeles Lakers,52,19,.732,-,x,2019
+138,2,Los Angeles Clippers,49,23,.681,3.5,x,2019
+139,3,Denver Nuggets,46,27,.630,7.0,x,2019
+140,4,Houston Rockets,44,28,.611,8.5,x,2019
+141,5,Oklahoma City Thunder,44,28,.611,8.5,x,2019
+142,6,Utah Jazz,44,28,.611,8.5,x,2019
+143,7,Dallas Mavericks,43,32,.573,11.0,x,2019
+144,8,Portland Trail Blazers,35,39,.473,18.5,x,2019
+145,9,Memphis Grizzlies,34,39,.466,19.0,pi,2019
+146,10,Phoenix Suns,34,39,.466,19.0,,2019
+147,11,San Antonio Spurs,32,39,.451,20.0,,2019
+148,12,Sacramento Kings,31,41,.431,21.5,,2019
+149,13,New Orleans Pelicans,30,42,.417,22.5,,2019
+150,14,Minnesota Timberwolves,19,45,.297,29.5,,2019
+151,15,Golden State Warriors,15,50,.231,34.0,,2019
+152,,Team,W,L,Pct,GB,,2019
+153,1,Milwaukee Bucks,56,17,.767,-,x,2019
+154,2,Toronto Raptors,53,19,.736,2.5,x,2019
+155,3,Boston Celtics,48,24,.667,7.5,x,2019
+156,4,Indiana Pacers,45,28,.616,11.0,x,2019
+157,5,Miami Heat,44,29,.603,12.0,x,2019
+158,6,Philadelphia 76ers,43,30,.589,13.0,x,2019
+159,7,Brooklyn Nets,35,37,.486,20.5,x,2019
+160,8,Orlando Magic,33,40,.452,23.0,x,2019
+161,9,Washington Wizards,25,47,.347,30.5,,2019
+162,10,Charlotte Hornets,23,42,.354,29.0,,2019
+163,11,Chicago Bulls,22,43,.338,30.0,,2019
+164,12,New York Knicks,21,45,.318,31.5,,2019
+165,13,Detroit Pistons,20,46,.303,32.5,,2019
+166,14,Atlanta Hawks,20,47,.299,33.0,,2019
+167,15,Cleveland Cavaliers,19,46,.292,33.0,,2019
+168,,Team,W,L,Pct,GB,,2019
+169,1,Denver Nuggets,46,27,.630,-,x,2019
+170,2,Oklahoma City Thunder,44,28,.611,1.5,x,2019
+171,3,Utah Jazz,44,28,.611,1.5,x,2019
+172,4,Portland Trail Blazers,35,39,.473,11.5,x,2019
+173,5,Minnesota Timberwolves,19,45,.297,22.5,,2019
+174,,Team,W,L,Pct,GB,,2019
+175,1,Los Angeles Lakers,52,19,.732,-,x,2019
+176,2,Los Angeles Clippers,49,23,.681,3.5,x,2019
+177,3,Phoenix Suns,34,39,.466,19.0,,2019
+178,4,Sacramento Kings,31,41,.431,21.5,,2019
+179,5,Golden State Warriors,15,50,.231,34.0,,2019
+180,,Team,W,L,Pct,GB,,2019
+181,1,Houston Rockets,44,28,.611,-,x,2019
+182,2,Dallas Mavericks,43,32,.573,2.5,x,2019
+183,3,Memphis Grizzlies,34,39,.466,10.5,pi,2019
+184,4,San Antonio Spurs,32,39,.451,11.5,,2019
+185,5,New Orleans Pelicans,30,42,.417,14.0,,2019
+186,,Team,W,L,Pct,GB,,2019
+187,1,Toronto Raptors,53,19,.736,-,x,2019
+188,2,Boston Celtics,48,24,.667,5.0,x,2019
+189,3,Philadelphia 76ers,43,30,.589,10.5,x,2019
+190,4,Brooklyn Nets,35,37,.486,18.0,x,2019
+191,5,New York Knicks,21,45,.318,29.0,,2019
+192,,Team,W,L,Pct,GB,,2019
+193,1,Milwaukee Bucks,56,17,.767,-,x,2019
+194,2,Indiana Pacers,45,28,.616,11.0,x,2019
+195,3,Chicago Bulls,22,43,.338,30.0,,2019
+196,4,Detroit Pistons,20,46,.303,32.5,,2019
+197,5,Cleveland Cavaliers,19,46,.292,33.0,,2019
+198,,Team,W,L,Pct,GB,,2019
+199,1,Miami Heat,44,29,.603,-,x,2019
+200,2,Orlando Magic,33,40,.452,11.0,x,2019
+201,3,Washington Wizards,25,47,.347,18.5,,2019
+202,4,Charlotte Hornets,23,42,.354,17.0,,2019
+203,5,Atlanta Hawks,20,47,.299,21.0,,2019
+204,,Team,W,L,Pct,GB,,2018
+205,1,Golden State Warriors,57,25,.695,-,x,2018
+206,2,Denver Nuggets,54,28,.659,3.0,x,2018
+207,3,Portland Trail Blazers,53,29,.646,4.0,x,2018
+208,4,Houston Rockets,53,29,.646,4.0,x,2018
+209,5,Utah Jazz,50,32,.610,7.0,x,2018
+210,6,Oklahoma City Thunder,49,33,.598,8.0,x,2018
+211,7,San Antonio Spurs,48,34,.585,9.0,x,2018
+212,8,Los Angeles Clippers,48,34,.585,9.0,x,2018
+213,9,Sacramento Kings,39,43,.476,18.0,,2018
+214,10,Los Angeles Lakers,37,45,.451,20.0,,2018
+215,11,Minnesota Timberwolves,36,46,.439,21.0,,2018
+216,12,Memphis Grizzlies,33,49,.402,24.0,,2018
+217,13,New Orleans Pelicans,33,49,.402,24.0,,2018
+218,14,Dallas Mavericks,33,49,.402,24.0,,2018
+219,15,Phoenix Suns,19,63,.232,38.0,,2018
+220,,Team,W,L,Pct,GB,,2018
+221,1,Milwaukee Bucks,60,22,.732,-,x,2018
+222,2,Toronto Raptors,58,24,.707,2.0,x,2018
+223,3,Philadelphia 76ers,51,31,.622,9.0,x,2018
+224,4,Boston Celtics,49,33,.598,11.0,x,2018
+225,5,Indiana Pacers,48,34,.585,12.0,x,2018
+226,6,Brooklyn Nets,42,40,.512,18.0,x,2018
+227,7,Orlando Magic,42,40,.512,18.0,x,2018
+228,8,Detroit Pistons,41,41,.500,19.0,x,2018
+229,9,Charlotte Hornets,39,43,.476,21.0,,2018
+230,10,Miami Heat,39,43,.476,21.0,,2018
+231,11,Washington Wizards,32,50,.390,28.0,,2018
+232,12,Atlanta Hawks,29,53,.354,31.0,,2018
+233,13,Chicago Bulls,22,60,.268,38.0,,2018
+234,14,Cleveland Cavaliers,19,63,.232,41.0,,2018
+235,15,New York Knicks,17,65,.207,43.0,,2018
+236,,Team,W,L,Pct,GB,,2018
+237,1,Denver Nuggets,54,28,.659,-,x,2018
+238,2,Portland Trail Blazers,53,29,.646,1.0,x,2018
+239,3,Utah Jazz,50,32,.610,4.0,x,2018
+240,4,Oklahoma City Thunder,49,33,.598,5.0,x,2018
+241,5,Minnesota Timberwolves,36,46,.439,18.0,,2018
+242,,Team,W,L,Pct,GB,,2018
+243,1,Golden State Warriors,57,25,.695,-,x,2018
+244,2,Los Angeles Clippers,48,34,.585,9.0,x,2018
+245,3,Sacramento Kings,39,43,.476,18.0,,2018
+246,4,Los Angeles Lakers,37,45,.451,20.0,,2018
+247,5,Phoenix Suns,19,63,.232,38.0,,2018
+248,,Team,W,L,Pct,GB,,2018
+249,1,Houston Rockets,53,29,.646,-,x,2018
+250,2,San Antonio Spurs,48,34,.585,5.0,x,2018
+251,3,Memphis Grizzlies,33,49,.402,20.0,,2018
+252,4,New Orleans Pelicans,33,49,.402,20.0,,2018
+253,5,Dallas Mavericks,33,49,.402,20.0,,2018
+254,,Team,W,L,Pct,GB,,2018
+255,1,Toronto Raptors,58,24,.707,-,x,2018
+256,2,Philadelphia 76ers,51,31,.622,7.0,x,2018
+257,3,Boston Celtics,49,33,.598,9.0,x,2018
+258,4,Brooklyn Nets,42,40,.512,16.0,x,2018
+259,5,New York Knicks,17,65,.207,41.0,,2018
+260,,Team,W,L,Pct,GB,,2018
+261,1,Milwaukee Bucks,60,22,.732,-,x,2018
+262,2,Indiana Pacers,48,34,.585,12.0,x,2018
+263,3,Detroit Pistons,41,41,.500,19.0,x,2018
+264,4,Chicago Bulls,22,60,.268,38.0,,2018
+265,5,Cleveland Cavaliers,19,63,.232,41.0,,2018
+266,,Team,W,L,Pct,GB,,2018
+267,1,Orlando Magic,42,40,.512,-,x,2018
+268,2,Charlotte Hornets,39,43,.476,3.0,,2018
+269,3,Miami Heat,39,43,.476,3.0,,2018
+270,4,Washington Wizards,32,50,.390,10.0,,2018
+271,5,Atlanta Hawks,29,53,.354,13.0,,2018
+272,,Team,W,L,Pct,GB,,2017
+273,1,Houston Rockets,65,17,.793,-,x,2017
+274,2,Golden State Warriors,58,24,.707,7.0,x,2017
+275,3,Portland Trail Blazers,49,33,.598,16.0,x,2017
+276,4,Oklahoma City Thunder,48,34,.585,17.0,x,2017
+277,5,Utah Jazz,48,34,.585,17.0,x,2017
+278,6,New Orleans Pelicans,48,34,.585,17.0,x,2017
+279,7,San Antonio Spurs,47,35,.573,18.0,x,2017
+280,8,Minnesota Timberwolves,47,35,.573,18.0,x,2017
+281,9,Denver Nuggets,46,36,.561,19.0,,2017
+282,10,Los Angeles Clippers,42,40,.512,23.0,,2017
+283,11,Los Angeles Lakers,35,47,.427,30.0,,2017
+284,12,Sacramento Kings,27,55,.329,38.0,,2017
+285,13,Dallas Mavericks,24,58,.293,41.0,,2017
+286,14,Memphis Grizzlies,22,60,.268,43.0,,2017
+287,15,Phoenix Suns,21,61,.256,44.0,,2017
+288,,Team,W,L,Pct,GB,,2017
+289,1,Toronto Raptors,59,23,.720,-,x,2017
+290,2,Boston Celtics,55,27,.671,4.0,x,2017
+291,3,Philadelphia 76ers,52,30,.634,7.0,x,2017
+292,4,Cleveland Cavaliers,50,32,.610,9.0,x,2017
+293,5,Indiana Pacers,48,34,.585,11.0,x,2017
+294,6,Miami Heat,44,38,.537,15.0,x,2017
+295,7,Milwaukee Bucks,44,38,.537,15.0,x,2017
+296,8,Washington Wizards,43,39,.524,16.0,x,2017
+297,9,Detroit Pistons,39,43,.476,20.0,,2017
+298,10,Charlotte Hornets,36,46,.439,23.0,,2017
+299,11,New York Knicks,29,53,.354,30.0,,2017
+300,12,Brooklyn Nets,28,54,.341,31.0,,2017
+301,13,Chicago Bulls,27,55,.329,32.0,,2017
+302,14,Orlando Magic,25,57,.305,34.0,,2017
+303,15,Atlanta Hawks,24,58,.293,35.0,,2017
+304,,Team,W,L,Pct,GB,,2017
+305,1,Portland Trail Blazers,49,33,.598,-,x,2017
+306,2,Oklahoma City Thunder,48,34,.585,1.0,x,2017
+307,3,Utah Jazz,48,34,.585,1.0,x,2017
+308,4,Minnesota Timberwolves,47,35,.573,2.0,x,2017
+309,5,Denver Nuggets,46,36,.561,3.0,,2017
+310,,Team,W,L,Pct,GB,,2017
+311,1,Golden State Warriors,58,24,.707,-,x,2017
+312,2,Los Angeles Clippers,42,40,.512,16.0,,2017
+313,3,Los Angeles Lakers,35,47,.427,23.0,,2017
+314,4,Sacramento Kings,27,55,.329,31.0,,2017
+315,5,Phoenix Suns,21,61,.256,37.0,,2017
+316,,Team,W,L,Pct,GB,,2017
+317,1,Houston Rockets,65,17,.793,-,x,2017
+318,2,New Orleans Pelicans,48,34,.585,17.0,x,2017
+319,3,San Antonio Spurs,47,35,.573,18.0,x,2017
+320,4,Dallas Mavericks,24,58,.293,41.0,,2017
+321,5,Memphis Grizzlies,22,60,.268,43.0,,2017
+322,,Team,W,L,Pct,GB,,2017
+323,1,Toronto Raptors,59,23,.720,-,x,2017
+324,2,Boston Celtics,55,27,.671,4.0,x,2017
+325,3,Philadelphia 76ers,52,30,.634,7.0,x,2017
+326,4,New York Knicks,29,53,.354,30.0,,2017
+327,5,Brooklyn Nets,28,54,.341,31.0,,2017
+328,,Team,W,L,Pct,GB,,2017
+329,1,Cleveland Cavaliers,50,32,.610,-,x,2017
+330,2,Indiana Pacers,48,34,.585,2.0,x,2017
+331,3,Milwaukee Bucks,44,38,.537,6.0,x,2017
+332,4,Detroit Pistons,39,43,.476,11.0,,2017
+333,5,Chicago Bulls,27,55,.329,23.0,,2017
+334,,Team,W,L,Pct,GB,,2017
+335,1,Miami Heat,44,38,.537,-,x,2017
+336,2,Washington Wizards,43,39,.524,1.0,x,2017
+337,3,Charlotte Hornets,36,46,.439,8.0,,2017
+338,4,Orlando Magic,25,57,.305,19.0,,2017
+339,5,Atlanta Hawks,24,58,.293,20.0,,2017
+340,,Team,W,L,Pct,GB,,2016
+341,1,Golden State Warriors,67,15,.817,-,x,2016
+342,2,San Antonio Spurs,61,21,.744,6.0,x,2016
+343,3,Houston Rockets,55,27,.671,12.0,x,2016
+344,4,Los Angeles Clippers,51,31,.622,16.0,x,2016
+345,5,Utah Jazz,51,31,.622,16.0,x,2016
+346,6,Oklahoma City Thunder,47,35,.573,20.0,x,2016
+347,7,Memphis Grizzlies,43,39,.524,24.0,x,2016
+348,8,Portland Trail Blazers,41,41,.500,26.0,x,2016
+349,9,Denver Nuggets,40,42,.488,27.0,,2016
+350,10,New Orleans Pelicans,34,48,.415,33.0,,2016
+351,11,Dallas Mavericks,33,49,.402,34.0,,2016
+352,12,Sacramento Kings,32,50,.390,35.0,,2016
+353,13,Minnesota Timberwolves,31,51,.378,36.0,,2016
+354,14,Los Angeles Lakers,26,56,.317,41.0,,2016
+355,15,Phoenix Suns,24,58,.293,43.0,,2016
+356,,Team,W,L,Pct,GB,,2016
+357,1,Boston Celtics,53,29,.646,-,x,2016
+358,2,Cleveland Cavaliers,51,31,.622,2.0,x,2016
+359,3,Toronto Raptors,51,31,.622,2.0,x,2016
+360,4,Washington Wizards,49,33,.598,4.0,x,2016
+361,5,Atlanta Hawks,43,39,.524,10.0,x,2016
+362,6,Milwaukee Bucks,42,40,.512,11.0,x,2016
+363,7,Indiana Pacers,42,40,.512,11.0,x,2016
+364,8,Chicago Bulls,41,41,.500,12.0,x,2016
+365,9,Miami Heat,41,41,.500,12.0,,2016
+366,10,Detroit Pistons,37,45,.451,16.0,,2016
+367,11,Charlotte Hornets,36,46,.439,17.0,,2016
+368,12,New York Knicks,31,51,.378,22.0,,2016
+369,13,Orlando Magic,29,53,.354,24.0,,2016
+370,14,Philadelphia 76ers,28,54,.341,25.0,,2016
+371,15,Brooklyn Nets,20,62,.244,33.0,,2016
+372,,Team,W,L,Pct,GB,,2016
+373,1,Utah Jazz,51,31,.622,-,x,2016
+374,2,Oklahoma City Thunder,47,35,.573,4.0,x,2016
+375,3,Portland Trail Blazers,41,41,.500,10.0,x,2016
+376,4,Denver Nuggets,40,42,.488,11.0,,2016
+377,5,Minnesota Timberwolves,31,51,.378,20.0,,2016
+378,,Team,W,L,Pct,GB,,2016
+379,1,Golden State Warriors,67,15,.817,-,x,2016
+380,2,Los Angeles Clippers,51,31,.622,16.0,x,2016
+381,3,Sacramento Kings,32,50,.390,35.0,,2016
+382,4,Los Angeles Lakers,26,56,.317,41.0,,2016
+383,5,Phoenix Suns,24,58,.293,43.0,,2016
+384,,Team,W,L,Pct,GB,,2016
+385,1,San Antonio Spurs,61,21,.744,-,x,2016
+386,2,Houston Rockets,55,27,.671,6.0,x,2016
+387,3,Memphis Grizzlies,43,39,.524,18.0,x,2016
+388,4,New Orleans Pelicans,34,48,.415,27.0,,2016
+389,5,Dallas Mavericks,33,49,.402,28.0,,2016
+390,,Team,W,L,Pct,GB,,2016
+391,1,Boston Celtics,53,29,.646,-,x,2016
+392,2,Toronto Raptors,51,31,.622,2.0,x,2016
+393,3,New York Knicks,31,51,.378,22.0,,2016
+394,4,Philadelphia 76ers,28,54,.341,25.0,,2016
+395,5,Brooklyn Nets,20,62,.244,33.0,,2016
+396,,Team,W,L,Pct,GB,,2016
+397,1,Cleveland Cavaliers,51,31,.622,-,x,2016
+398,2,Milwaukee Bucks,42,40,.512,9.0,x,2016
+399,3,Indiana Pacers,42,40,.512,9.0,x,2016
+400,4,Chicago Bulls,41,41,.500,10.0,x,2016
+401,5,Detroit Pistons,37,45,.451,14.0,,2016
+402,,Team,W,L,Pct,GB,,2016
+403,1,Washington Wizards,49,33,.598,-,x,2016
+404,2,Atlanta Hawks,43,39,.524,6.0,x,2016
+405,3,Miami Heat,41,41,.500,8.0,,2016
+406,4,Charlotte Hornets,36,46,.439,13.0,,2016
+407,5,Orlando Magic,29,53,.354,20.0,,2016
+408,,Team,W,L,Pct,GB,,2015
+409,1,Golden State Warriors,73,9,.890,-,x,2015
+410,2,San Antonio Spurs,67,15,.817,6.0,x,2015
+411,3,Oklahoma City Thunder,55,27,.671,18.0,x,2015
+412,4,Los Angeles Clippers,53,29,.646,20.0,x,2015
+413,5,Portland Trail Blazers,44,38,.537,29.0,x,2015
+414,6,Dallas Mavericks,42,40,.512,31.0,x,2015
+415,7,Memphis Grizzlies,42,40,.512,31.0,x,2015
+416,8,Houston Rockets,41,41,.500,32.0,x,2015
+417,9,Utah Jazz,40,42,.488,33.0,,2015
+418,10,Sacramento Kings,33,49,.402,40.0,,2015
+419,11,Denver Nuggets,33,49,.402,40.0,,2015
+420,12,New Orleans Pelicans,30,52,.366,43.0,,2015
+421,13,Minnesota Timberwolves,29,53,.354,44.0,,2015
+422,14,Phoenix Suns,23,59,.280,50.0,,2015
+423,15,Los Angeles Lakers,17,65,.207,56.0,,2015
+424,,Team,W,L,Pct,GB,,2015
+425,1,Cleveland Cavaliers,57,25,.695,-,x,2015
+426,2,Toronto Raptors,56,26,.683,1.0,x,2015
+427,3,Miami Heat,48,34,.585,9.0,x,2015
+428,4,Atlanta Hawks,48,34,.585,9.0,x,2015
+429,5,Boston Celtics,48,34,.585,9.0,x,2015
+430,6,Charlotte Hornets,48,34,.585,9.0,x,2015
+431,7,Indiana Pacers,45,37,.549,12.0,x,2015
+432,8,Detroit Pistons,44,38,.537,13.0,x,2015
+433,9,Chicago Bulls,42,40,.512,15.0,,2015
+434,10,Washington Wizards,41,41,.500,16.0,,2015
+435,11,Orlando Magic,35,47,.427,22.0,,2015
+436,12,Milwaukee Bucks,33,49,.402,24.0,,2015
+437,13,New York Knicks,32,50,.390,25.0,,2015
+438,14,Brooklyn Nets,21,61,.256,36.0,,2015
+439,15,Philadelphia 76ers,10,72,.122,47.0,,2015
+440,,Team,W,L,Pct,GB,,2015
+441,1,Oklahoma City Thunder,55,27,.671,-,x,2015
+442,2,Portland Trail Blazers,44,38,.537,11.0,x,2015
+443,3,Utah Jazz,40,42,.488,15.0,,2015
+444,4,Denver Nuggets,33,49,.402,22.0,,2015
+445,5,Minnesota Timberwolves,29,53,.354,26.0,,2015
+446,,Team,W,L,Pct,GB,,2015
+447,1,Golden State Warriors,73,9,.890,-,x,2015
+448,2,Los Angeles Clippers,53,29,.646,20.0,x,2015
+449,3,Sacramento Kings,33,49,.402,40.0,,2015
+450,4,Phoenix Suns,23,59,.280,50.0,,2015
+451,5,Los Angeles Lakers,17,65,.207,56.0,,2015
+452,,Team,W,L,Pct,GB,,2015
+453,1,San Antonio Spurs,67,15,.817,-,x,2015
+454,2,Dallas Mavericks,42,40,.512,25.0,x,2015
+455,3,Memphis Grizzlies,42,40,.512,25.0,x,2015
+456,4,Houston Rockets,41,41,.500,26.0,x,2015
+457,5,New Orleans Pelicans,30,52,.366,37.0,,2015
+458,,Team,W,L,Pct,GB,,2015
+459,1,Toronto Raptors,56,26,.683,-,x,2015
+460,2,Boston Celtics,48,34,.585,8.0,x,2015
+461,3,New York Knicks,32,50,.390,24.0,,2015
+462,4,Brooklyn Nets,21,61,.256,35.0,,2015
+463,5,Philadelphia 76ers,10,72,.122,46.0,,2015
+464,,Team,W,L,Pct,GB,,2015
+465,1,Cleveland Cavaliers,57,25,.695,-,x,2015
+466,2,Indiana Pacers,45,37,.549,12.0,x,2015
+467,3,Detroit Pistons,44,38,.537,13.0,x,2015
+468,4,Chicago Bulls,42,40,.512,15.0,,2015
+469,5,Milwaukee Bucks,33,49,.402,24.0,,2015
+470,,Team,W,L,Pct,GB,,2015
+471,1,Miami Heat,48,34,.585,-,x,2015
+472,2,Atlanta Hawks,48,34,.585,-,x,2015
+473,3,Charlotte Hornets,48,34,.585,-,x,2015
+474,4,Washington Wizards,41,41,.500,7.0,,2015
+475,5,Orlando Magic,35,47,.427,13.0,,2015
+476,,Team,W,L,Pct,GB,,2014
+477,1,Golden State Warriors,67,15,.817,-,x,2014
+478,2,Houston Rockets,56,26,.683,11.0,x,2014
+479,3,Los Angeles Clippers,56,26,.683,11.0,x,2014
+480,4,Portland Trail Blazers,51,31,.622,16.0,x,2014
+481,5,Memphis Grizzlies,55,27,.671,12.0,x,2014
+482,6,San Antonio Spurs,55,27,.671,12.0,x,2014
+483,7,Dallas Mavericks,50,32,.610,17.0,x,2014
+484,8,New Orleans Pelicans,45,37,.549,22.0,x,2014
+485,9,Oklahoma City Thunder,45,37,.549,22.0,,2014
+486,10,Phoenix Suns,39,43,.476,28.0,,2014
+487,11,Utah Jazz,38,44,.463,29.0,,2014
+488,12,Denver Nuggets,30,52,.366,37.0,,2014
+489,13,Sacramento Kings,29,53,.354,38.0,,2014
+490,14,Los Angeles Lakers,21,61,.256,46.0,,2014
+491,15,Minnesota Timberwolves,16,66,.195,51.0,,2014
+492,,Team,W,L,Pct,GB,,2014
+493,1,Atlanta Hawks,60,22,.732,-,x,2014
+494,2,Cleveland Cavaliers,53,29,.646,7.0,x,2014
+495,3,Chicago Bulls,50,32,.610,10.0,x,2014
+496,4,Toronto Raptors,49,33,.598,11.0,x,2014
+497,5,Washington Wizards,46,36,.561,14.0,x,2014
+498,6,Milwaukee Bucks,41,41,.500,19.0,x,2014
+499,7,Boston Celtics,40,42,.488,20.0,x,2014
+500,8,Brooklyn Nets,38,44,.463,22.0,x,2014
+501,9,Indiana Pacers,38,44,.463,22.0,,2014
+502,10,Miami Heat,37,45,.451,23.0,,2014
+503,11,Charlotte Hornets,33,49,.402,27.0,,2014
+504,12,Detroit Pistons,32,50,.390,28.0,,2014
+505,13,Orlando Magic,25,57,.305,35.0,,2014
+506,14,Philadelphia 76ers,18,64,.220,42.0,,2014
+507,15,New York Knicks,17,65,.207,43.0,,2014
+508,,Team,W,L,Pct,GB,,2014
+509,1,Portland Trail Blazers,51,31,.622,-,x,2014
+510,2,Oklahoma City Thunder,45,37,.549,6.0,,2014
+511,3,Utah Jazz,38,44,.463,13.0,,2014
+512,4,Denver Nuggets,30,52,.366,21.0,,2014
+513,5,Minnesota Timberwolves,16,66,.195,35.0,,2014
+514,,Team,W,L,Pct,GB,,2014
+515,1,Golden State Warriors,67,15,.817,-,x,2014
+516,2,Los Angeles Clippers,56,26,.683,11.0,x,2014
+517,3,Phoenix Suns,39,43,.476,28.0,,2014
+518,4,Sacramento Kings,29,53,.354,38.0,,2014
+519,5,Los Angeles Lakers,21,61,.256,46.0,,2014
+520,,Team,W,L,Pct,GB,,2014
+521,1,Houston Rockets,56,26,.683,-,x,2014
+522,2,Memphis Grizzlies,55,27,.671,1.0,x,2014
+523,3,San Antonio Spurs,55,27,.671,1.0,x,2014
+524,4,Dallas Mavericks,50,32,.610,6.0,x,2014
+525,5,New Orleans Pelicans,45,37,.549,11.0,x,2014
+526,,Team,W,L,Pct,GB,,2014
+527,1,Toronto Raptors,49,33,.598,-,x,2014
+528,2,Boston Celtics,40,42,.488,9.0,x,2014
+529,3,Brooklyn Nets,38,44,.463,11.0,x,2014
+530,4,Philadelphia 76ers,18,64,.220,31.0,,2014
+531,5,New York Knicks,17,65,.207,32.0,,2014
+532,,Team,W,L,Pct,GB,,2014
+533,1,Cleveland Cavaliers,53,29,.646,-,x,2014
+534,2,Chicago Bulls,50,32,.610,3.0,x,2014
+535,3,Milwaukee Bucks,41,41,.500,12.0,x,2014
+536,4,Indiana Pacers,38,44,.463,15.0,,2014
+537,5,Detroit Pistons,32,50,.390,21.0,,2014
+538,,Team,W,L,Pct,GB,,2014
+539,1,Atlanta Hawks,60,22,.732,-,x,2014
+540,2,Washington Wizards,46,36,.561,14.0,x,2014
+541,3,Miami Heat,37,45,.451,23.0,,2014
+542,4,Charlotte Hornets,33,49,.402,27.0,,2014
+543,5,Orlando Magic,25,57,.305,35.0,,2014
+544,,Team,W,L,Pct,GB,,2013
+545,1,San Antonio Spurs,62,20,.756,-,x,2013
+546,2,Oklahoma City Thunder,59,23,.720,3.0,x,2013
+547,3,Los Angeles Clippers,57,25,.695,5.0,x,2013
+548,4,Houston Rockets,54,28,.659,8.0,x,2013
+549,5,Portland Trail Blazers,54,28,.659,8.0,x,2013
+550,6,Golden State Warriors,51,31,.622,11.0,x,2013
+551,7,Memphis Grizzlies,50,32,.610,12.0,x,2013
+552,8,Dallas Mavericks,49,33,.598,13.0,x,2013
+553,9,Phoenix Suns,48,34,.585,14.0,,2013
+554,10,Minnesota Timberwolves,40,42,.488,22.0,,2013
+555,11,Denver Nuggets,36,46,.439,26.0,,2013
+556,12,New Orleans Pelicans,34,48,.415,28.0,,2013
+557,13,Sacramento Kings,28,54,.341,34.0,,2013
+558,14,Los Angeles Lakers,27,55,.329,35.0,,2013
+559,15,Utah Jazz,25,57,.305,37.0,,2013
+560,,Team,W,L,Pct,GB,,2013
+561,1,Indiana Pacers,56,26,.683,-,x,2013
+562,2,Miami Heat,54,28,.659,2.0,x,2013
+563,3,Toronto Raptors,48,34,.585,8.0,x,2013
+564,4,Chicago Bulls,48,34,.585,8.0,x,2013
+565,5,Washington Wizards,44,38,.537,12.0,x,2013
+566,6,Brooklyn Nets,44,38,.537,12.0,x,2013
+567,7,Charlotte Bobcats,43,39,.524,13.0,x,2013
+568,8,Atlanta Hawks,38,44,.463,18.0,x,2013
+569,9,New York Knicks,37,45,.451,19.0,,2013
+570,10,Cleveland Cavaliers,33,49,.402,23.0,,2013
+571,11,Detroit Pistons,29,53,.354,27.0,,2013
+572,12,Boston Celtics,25,57,.305,31.0,,2013
+573,13,Orlando Magic,23,59,.280,33.0,,2013
+574,14,Philadelphia 76ers,19,63,.232,37.0,,2013
+575,15,Milwaukee Bucks,15,67,.183,41.0,,2013
+576,,Team,W,L,Pct,GB,,2013
+577,1,Oklahoma City Thunder,59,23,.720,-,x,2013
+578,2,Portland Trail Blazers,54,28,.659,5.0,x,2013
+579,3,Minnesota Timberwolves,40,42,.488,19.0,,2013
+580,4,Denver Nuggets,36,46,.439,23.0,,2013
+581,5,Utah Jazz,25,57,.305,34.0,,2013
+582,,Team,W,L,Pct,GB,,2013
+583,1,Los Angeles Clippers,57,25,.695,-,x,2013
+584,2,Golden State Warriors,51,31,.622,6.0,x,2013
+585,3,Phoenix Suns,48,34,.585,9.0,,2013
+586,4,Sacramento Kings,28,54,.341,29.0,,2013
+587,5,Los Angeles Lakers,27,55,.329,30.0,,2013
+588,,Team,W,L,Pct,GB,,2013
+589,1,San Antonio Spurs,62,20,.756,-,x,2013
+590,2,Houston Rockets,54,28,.659,8.0,x,2013
+591,3,Memphis Grizzlies,50,32,.610,12.0,x,2013
+592,4,Dallas Mavericks,49,33,.598,13.0,x,2013
+593,5,New Orleans Pelicans,34,48,.415,28.0,,2013
+594,,Team,W,L,Pct,GB,,2013
+595,1,Toronto Raptors,48,34,.585,-,x,2013
+596,2,Brooklyn Nets,44,38,.537,4.0,x,2013
+597,3,New York Knicks,37,45,.451,11.0,,2013
+598,4,Boston Celtics,25,57,.305,23.0,,2013
+599,5,Philadelphia 76ers,19,63,.232,29.0,,2013
+600,,Team,W,L,Pct,GB,,2013
+601,1,Indiana Pacers,56,26,.683,-,x,2013
+602,2,Chicago Bulls,48,34,.585,8.0,x,2013
+603,3,Cleveland Cavaliers,33,49,.402,23.0,,2013
+604,4,Detroit Pistons,29,53,.354,27.0,,2013
+605,5,Milwaukee Bucks,15,67,.183,41.0,,2013
+606,,Team,W,L,Pct,GB,,2013
+607,1,Miami Heat,54,28,.659,-,x,2013
+608,2,Washington Wizards,44,38,.537,10.0,x,2013
+609,3,Charlotte Bobcats,43,39,.524,11.0,x,2013
+610,4,Atlanta Hawks,38,44,.463,16.0,x,2013
+611,5,Orlando Magic,23,59,.280,31.0,,2013
+612,,Team,W,L,Pct,GB,,2012
+613,1,Oklahoma City Thunder,60,22,.732,-,x,2012
+614,2,San Antonio Spurs,58,24,.707,2.0,x,2012
+615,3,Denver Nuggets,57,25,.695,3.0,x,2012
+616,4,Los Angeles Clippers,56,26,.683,4.0,x,2012
+617,5,Memphis Grizzlies,56,26,.683,4.0,x,2012
+618,6,Golden State Warriors,47,35,.573,13.0,x,2012
+619,7,Los Angeles Lakers,45,37,.549,15.0,x,2012
+620,8,Houston Rockets,45,37,.549,15.0,x,2012
+621,9,Utah Jazz,43,39,.524,17.0,,2012
+622,10,Dallas Mavericks,41,41,.500,19.0,,2012
+623,11,Portland Trail Blazers,33,49,.402,27.0,,2012
+624,12,Minnesota Timberwolves,31,51,.378,29.0,,2012
+625,13,Sacramento Kings,28,54,.341,32.0,,2012
+626,14,New Orleans Hornets,27,55,.329,33.0,,2012
+627,15,Phoenix Suns,25,57,.305,35.0,,2012
+628,,Team,W,L,Pct,GB,,2012
+629,1,Miami Heat,66,16,.805,-,x,2012
+630,2,New York Knicks,54,28,.659,12.0,x,2012
+631,3,Indiana Pacers,49,32,.605,16.5,x,2012
+632,4,Brooklyn Nets,49,33,.598,17.0,x,2012
+633,5,Chicago Bulls,45,37,.549,21.0,x,2012
+634,6,Atlanta Hawks,44,38,.537,22.0,x,2012
+635,7,Boston Celtics,41,40,.506,24.5,x,2012
+636,8,Milwaukee Bucks,38,44,.463,28.0,x,2012
+637,9,Philadelphia 76ers,34,48,.415,32.0,,2012
+638,10,Toronto Raptors,34,48,.415,32.0,,2012
+639,11,Detroit Pistons,29,53,.354,37.0,,2012
+640,12,Washington Wizards,29,53,.354,37.0,,2012
+641,13,Cleveland Cavaliers,24,58,.293,42.0,,2012
+642,14,Charlotte Bobcats,21,61,.256,45.0,,2012
+643,15,Orlando Magic,20,62,.244,46.0,,2012
+644,,Team,W,L,Pct,GB,,2012
+645,1,Oklahoma City Thunder,60,22,.732,-,x,2012
+646,2,Denver Nuggets,57,25,.695,3.0,x,2012
+647,3,Utah Jazz,43,39,.524,17.0,,2012
+648,4,Portland Trail Blazers,33,49,.402,27.0,,2012
+649,5,Minnesota Timberwolves,31,51,.378,29.0,,2012
+650,,Team,W,L,Pct,GB,,2012
+651,1,Los Angeles Clippers,56,26,.683,-,x,2012
+652,2,Golden State Warriors,47,35,.573,9.0,x,2012
+653,3,Los Angeles Lakers,45,37,.549,11.0,x,2012
+654,4,Sacramento Kings,28,54,.341,28.0,,2012
+655,5,Phoenix Suns,25,57,.305,31.0,,2012
+656,,Team,W,L,Pct,GB,,2012
+657,1,San Antonio Spurs,58,24,.707,-,x,2012
+658,2,Memphis Grizzlies,56,26,.683,2.0,x,2012
+659,3,Houston Rockets,45,37,.549,13.0,x,2012
+660,4,Dallas Mavericks,41,41,.500,17.0,,2012
+661,5,New Orleans Hornets,27,55,.329,31.0,,2012
+662,,Team,W,L,Pct,GB,,2012
+663,1,New York Knicks,54,28,.659,-,x,2012
+664,2,Brooklyn Nets,49,33,.598,5.0,x,2012
+665,3,Boston Celtics,41,40,.506,12.5,x,2012
+666,4,Philadelphia 76ers,34,48,.415,20.0,,2012
+667,5,Toronto Raptors,34,48,.415,20.0,,2012
+668,,Team,W,L,Pct,GB,,2012
+669,1,Indiana Pacers,49,32,.605,-,x,2012
+670,2,Chicago Bulls,45,37,.549,4.5,x,2012
+671,3,Milwaukee Bucks,38,44,.463,11.5,x,2012
+672,4,Detroit Pistons,29,53,.354,20.5,,2012
+673,5,Cleveland Cavaliers,24,58,.293,25.5,,2012
+674,,Team,W,L,Pct,GB,,2012
+675,1,Miami Heat,66,16,.805,-,x,2012
+676,2,Atlanta Hawks,44,38,.537,22.0,x,2012
+677,3,Washington Wizards,29,53,.354,37.0,,2012
+678,4,Charlotte Bobcats,21,61,.256,45.0,,2012
+679,5,Orlando Magic,20,62,.244,46.0,,2012
+680,,Team,W,L,Pct,GB,,2011
+681,1,San Antonio Spurs,50,16,.758,-,x,2011
+682,2,Oklahoma City Thunder,47,19,.712,3.0,x,2011
+683,3,Los Angeles Lakers,41,25,.621,9.0,x,2011
+684,4,Memphis Grizzlies,41,25,.621,9.0,x,2011
+685,5,Los Angeles Clippers,40,26,.606,10.0,x,2011
+686,6,Denver Nuggets,38,28,.576,12.0,x,2011
+687,7,Dallas Mavericks,36,30,.545,14.0,x,2011
+688,8,Utah Jazz,36,30,.545,14.0,x,2011
+689,9,Houston Rockets,34,32,.515,16.0,,2011
+690,10,Phoenix Suns,33,33,.500,17.0,,2011
+691,11,Portland Trail Blazers,28,38,.424,22.0,,2011
+692,12,Minnesota Timberwolves,26,40,.394,24.0,,2011
+693,13,Golden State Warriors,23,43,.348,27.0,,2011
+694,14,Sacramento Kings,22,44,.333,28.0,,2011
+695,15,New Orleans Hornets,21,45,.318,29.0,,2011
+696,,Team,W,L,Pct,GB,,2011
+697,1,Chicago Bulls,50,16,.758,-,x,2011
+698,2,Miami Heat,46,20,.697,4.0,x,2011
+699,3,Indiana Pacers,42,24,.636,8.0,x,2011
+700,4,Boston Celtics,39,27,.591,11.0,x,2011
+701,5,Atlanta Hawks,40,26,.606,10.0,x,2011
+702,6,Orlando Magic,37,29,.561,13.0,x,2011
+703,7,New York Knicks,36,30,.545,14.0,x,2011
+704,8,Philadelphia 76ers,35,31,.530,15.0,x,2011
+705,9,Milwaukee Bucks,31,35,.470,19.0,,2011
+706,10,Detroit Pistons,25,41,.379,25.0,,2011
+707,11,Toronto Raptors,23,43,.348,27.0,,2011
+708,12,New Jersey Nets,22,44,.333,28.0,,2011
+709,13,Cleveland Cavaliers,21,45,.318,29.0,,2011
+710,14,Washington Wizards,20,46,.303,30.0,,2011
+711,15,Charlotte Bobcats,7,59,.106,43.0,,2011
+712,,Team,W,L,Pct,GB,,2011
+713,1,Oklahoma City Thunder,47,19,.712,-,x,2011
+714,2,Denver Nuggets,38,28,.576,9.0,x,2011
+715,3,Utah Jazz,36,30,.545,11.0,x,2011
+716,4,Portland Trail Blazers,28,38,.424,19.0,,2011
+717,5,Minnesota Timberwolves,26,40,.394,21.0,,2011
+718,,Team,W,L,Pct,GB,,2011
+719,1,Los Angeles Lakers,41,25,.621,-,x,2011
+720,2,Los Angeles Clippers,40,26,.606,1.0,x,2011
+721,3,Phoenix Suns,33,33,.500,8.0,,2011
+722,4,Golden State Warriors,23,43,.348,18.0,,2011
+723,5,Sacramento Kings,22,44,.333,19.0,,2011
+724,,Team,W,L,Pct,GB,,2011
+725,1,San Antonio Spurs,50,16,.758,-,x,2011
+726,2,Memphis Grizzlies,41,25,.621,9.0,x,2011
+727,3,Dallas Mavericks,36,30,.545,14.0,x,2011
+728,4,Houston Rockets,34,32,.515,16.0,,2011
+729,5,New Orleans Hornets,21,45,.318,29.0,,2011
+730,,Team,W,L,Pct,GB,,2011
+731,1,Boston Celtics,39,27,.591,-,x,2011
+732,2,New York Knicks,36,30,.545,3.0,x,2011
+733,3,Philadelphia 76ers,35,31,.530,4.0,x,2011
+734,4,Toronto Raptors,23,43,.348,16.0,,2011
+735,5,New Jersey Nets,22,44,.333,17.0,,2011
+736,,Team,W,L,Pct,GB,,2011
+737,1,Chicago Bulls,50,16,.758,-,x,2011
+738,2,Indiana Pacers,42,24,.636,8.0,x,2011
+739,3,Milwaukee Bucks,31,35,.470,19.0,,2011
+740,4,Detroit Pistons,25,41,.379,25.0,,2011
+741,5,Cleveland Cavaliers,21,45,.318,29.0,,2011
+742,,Team,W,L,Pct,GB,,2011
+743,1,Miami Heat,46,20,.697,-,x,2011
+744,2,Atlanta Hawks,40,26,.606,6.0,x,2011
+745,3,Orlando Magic,37,29,.561,9.0,x,2011
+746,4,Washington Wizards,20,46,.303,26.0,,2011
+747,5,Charlotte Bobcats,7,59,.106,39.0,,2011
+748,,Team,W,L,Pct,GB,,2010
+749,1,San Antonio Spurs,61,21,.744,-,x,2010
+750,2,Los Angeles Lakers,57,25,.695,4.0,x,2010
+751,3,Dallas Mavericks,57,25,.695,4.0,x,2010
+752,4,Oklahoma City Thunder,55,27,.671,6.0,x,2010
+753,5,Denver Nuggets,50,32,.610,11.0,x,2010
+754,6,Portland Trail Blazers,48,34,.585,13.0,x,2010
+755,7,New Orleans Hornets,46,36,.561,15.0,x,2010
+756,8,Memphis Grizzlies,46,36,.561,15.0,x,2010
+757,9,Houston Rockets,43,39,.524,18.0,,2010
+758,10,Phoenix Suns,40,42,.488,21.0,,2010
+759,11,Utah Jazz,39,43,.476,22.0,,2010
+760,12,Golden State Warriors,36,46,.439,25.0,,2010
+761,13,Los Angeles Clippers,32,50,.390,29.0,,2010
+762,14,Sacramento Kings,24,58,.293,37.0,,2010
+763,15,Minnesota Timberwolves,17,65,.207,44.0,,2010
+764,,Team,W,L,Pct,GB,,2010
+765,1,Chicago Bulls,62,20,.756,-,x,2010
+766,2,Miami Heat,58,24,.707,4.0,x,2010
+767,3,Boston Celtics,56,26,.683,6.0,x,2010
+768,4,Orlando Magic,52,30,.634,10.0,x,2010
+769,5,Atlanta Hawks,44,38,.537,18.0,x,2010
+770,6,New York Knicks,42,40,.512,20.0,x,2010
+771,7,Philadelphia 76ers,41,41,.500,21.0,x,2010
+772,8,Indiana Pacers,37,45,.451,25.0,x,2010
+773,9,Milwaukee Bucks,35,47,.427,27.0,,2010
+774,10,Charlotte Bobcats,34,48,.415,28.0,,2010
+775,11,Detroit Pistons,30,52,.366,32.0,,2010
+776,12,New Jersey Nets,24,58,.293,38.0,,2010
+777,13,Washington Wizards,23,59,.280,39.0,,2010
+778,14,Toronto Raptors,22,60,.268,40.0,,2010
+779,15,Cleveland Cavaliers,19,63,.232,43.0,,2010
+780,,Team,W,L,Pct,GB,,2010
+781,1,Oklahoma City Thunder,55,27,.671,-,x,2010
+782,2,Denver Nuggets,50,32,.610,5.0,x,2010
+783,3,Portland Trail Blazers,48,34,.585,7.0,x,2010
+784,4,Utah Jazz,39,43,.476,16.0,,2010
+785,5,Minnesota Timberwolves,17,65,.207,38.0,,2010
+786,,Team,W,L,Pct,GB,,2010
+787,1,Los Angeles Lakers,57,25,.695,-,x,2010
+788,2,Phoenix Suns,40,42,.488,17.0,,2010
+789,3,Golden State Warriors,36,46,.439,21.0,,2010
+790,4,Los Angeles Clippers,32,50,.390,25.0,,2010
+791,5,Sacramento Kings,24,58,.293,33.0,,2010
+792,,Team,W,L,Pct,GB,,2010
+793,1,San Antonio Spurs,61,21,.744,-,x,2010
+794,2,Dallas Mavericks,57,25,.695,4.0,x,2010
+795,3,New Orleans Hornets,46,36,.561,15.0,x,2010
+796,4,Memphis Grizzlies,46,36,.561,15.0,x,2010
+797,5,Houston Rockets,43,39,.524,18.0,,2010
+798,,Team,W,L,Pct,GB,,2010
+799,1,Boston Celtics,56,26,.683,-,x,2010
+800,2,New York Knicks,42,40,.512,14.0,x,2010
+801,3,Philadelphia 76ers,41,41,.500,15.0,x,2010
+802,4,New Jersey Nets,24,58,.293,32.0,,2010
+803,5,Toronto Raptors,22,60,.268,34.0,,2010
+804,,Team,W,L,Pct,GB,,2010
+805,1,Chicago Bulls,62,20,.756,-,x,2010
+806,2,Indiana Pacers,37,45,.451,25.0,x,2010
+807,3,Milwaukee Bucks,35,47,.427,27.0,,2010
+808,4,Detroit Pistons,30,52,.366,32.0,,2010
+809,5,Cleveland Cavaliers,19,63,.232,43.0,,2010
+810,,Team,W,L,Pct,GB,,2010
+811,1,Miami Heat,58,24,.707,-,x,2010
+812,2,Orlando Magic,52,30,.634,6.0,x,2010
+813,3,Atlanta Hawks,44,38,.537,14.0,x,2010
+814,4,Charlotte Bobcats,34,48,.415,24.0,,2010
+815,5,Washington Wizards,23,59,.280,35.0,,2010
+816,,Team,W,L,Pct,GB,,2009
+817,1,Los Angeles Lakers,57,25,.695,-,x,2009
+818,2,Dallas Mavericks,55,27,.671,2.0,x,2009
+819,3,Phoenix Suns,54,28,.659,3.0,x,2009
+820,4,Denver Nuggets,53,29,.646,4.0,x,2009
+821,5,Utah Jazz,53,29,.646,4.0,x,2009
+822,6,Portland Trail Blazers,50,32,.610,7.0,x,2009
+823,7,San Antonio Spurs,50,32,.610,7.0,x,2009
+824,8,Oklahoma City Thunder,50,32,.610,7.0,x,2009
+825,9,Houston Rockets,42,40,.512,15.0,,2009
+826,10,Memphis Grizzlies,40,42,.488,17.0,,2009
+827,11,New Orleans Hornets,37,45,.451,20.0,,2009
+828,12,Los Angeles Clippers,29,53,.354,28.0,,2009
+829,13,Golden State Warriors,26,56,.317,31.0,,2009
+830,14,Sacramento Kings,25,57,.305,32.0,,2009
+831,15,Minnesota Timberwolves,15,67,.183,42.0,,2009
+832,,Team,W,L,Pct,GB,,2009
+833,1,Cleveland Cavaliers,61,21,.744,-,x,2009
+834,2,Orlando Magic,59,23,.720,2.0,x,2009
+835,3,Atlanta Hawks,53,29,.646,8.0,x,2009
+836,4,Boston Celtics,50,32,.610,11.0,x,2009
+837,5,Miami Heat,47,35,.573,14.0,x,2009
+838,6,Milwaukee Bucks,46,36,.561,15.0,x,2009
+839,7,Charlotte Bobcats,44,38,.537,17.0,x,2009
+840,8,Chicago Bulls,41,41,.500,20.0,x,2009
+841,9,Toronto Raptors,40,42,.488,21.0,,2009
+842,10,Indiana Pacers,32,50,.390,29.0,,2009
+843,11,New York Knicks,29,53,.354,32.0,,2009
+844,12,Detroit Pistons,27,55,.329,34.0,,2009
+845,13,Philadelphia 76ers,27,55,.329,34.0,,2009
+846,14,Washington Wizards,26,56,.317,35.0,,2009
+847,15,New Jersey Nets,12,70,.146,49.0,,2009
+848,,Team,W,L,Pct,GB,,2009
+849,1,Denver Nuggets,53,29,.646,-,x,2009
+850,2,Utah Jazz,53,29,.646,-,x,2009
+851,3,Portland Trail Blazers,50,32,.610,3.0,x,2009
+852,4,Oklahoma City Thunder,50,32,.610,3.0,x,2009
+853,5,Minnesota Timberwolves,15,67,.183,38.0,,2009
+854,,Team,W,L,Pct,GB,,2009
+855,1,Los Angeles Lakers,57,25,.695,-,x,2009
+856,2,Phoenix Suns,54,28,.659,3.0,x,2009
+857,3,Los Angeles Clippers,29,53,.354,28.0,,2009
+858,4,Golden State Warriors,26,56,.317,31.0,,2009
+859,5,Sacramento Kings,25,57,.305,32.0,,2009
+860,,Team,W,L,Pct,GB,,2009
+861,1,Dallas Mavericks,55,27,.671,-,x,2009
+862,2,San Antonio Spurs,50,32,.610,5.0,x,2009
+863,3,Houston Rockets,42,40,.512,13.0,,2009
+864,4,Memphis Grizzlies,40,42,.488,15.0,,2009
+865,5,New Orleans Hornets,37,45,.451,18.0,,2009
+866,,Team,W,L,Pct,GB,,2009
+867,1,Boston Celtics,50,32,.610,-,x,2009
+868,2,Toronto Raptors,40,42,.488,10.0,,2009
+869,3,New York Knicks,29,53,.354,21.0,,2009
+870,4,Philadelphia 76ers,27,55,.329,23.0,,2009
+871,5,New Jersey Nets,12,70,.146,38.0,,2009
+872,,Team,W,L,Pct,GB,,2009
+873,1,Cleveland Cavaliers,61,21,.744,-,x,2009
+874,2,Milwaukee Bucks,46,36,.561,15.0,x,2009
+875,3,Chicago Bulls,41,41,.500,20.0,x,2009
+876,4,Indiana Pacers,32,50,.390,29.0,,2009
+877,5,Detroit Pistons,27,55,.329,34.0,,2009
+878,,Team,W,L,Pct,GB,,2009
+879,1,Orlando Magic,59,23,.720,-,x,2009
+880,2,Atlanta Hawks,53,29,.646,6.0,x,2009
+881,3,Miami Heat,47,35,.573,12.0,x,2009
+882,4,Charlotte Bobcats,44,38,.537,15.0,x,2009
+883,5,Washington Wizards,26,56,.317,33.0,,2009
+884,,Team,W,L,Pct,GB,,2008
+885,1,Los Angeles Lakers,65,17,.793,-,x,2008
+886,2,Denver Nuggets,54,28,.659,11.0,x,2008
+887,3,San Antonio Spurs,54,28,.659,11.0,x,2008
+888,4,Portland Trail Blazers,54,28,.659,11.0,x,2008
+889,5,Houston Rockets,53,29,.646,12.0,x,2008
+890,6,Dallas Mavericks,50,32,.610,15.0,x,2008
+891,7,New Orleans Hornets,49,33,.598,16.0,x,2008
+892,8,Utah Jazz,48,34,.585,17.0,x,2008
+893,9,Phoenix Suns,46,36,.561,19.0,,2008
+894,10,Golden State Warriors,29,53,.354,36.0,,2008
+895,11,Minnesota Timberwolves,24,58,.293,41.0,,2008
+896,12,Memphis Grizzlies,24,58,.293,41.0,,2008
+897,13,Oklahoma City Thunder,23,59,.280,42.0,,2008
+898,14,Los Angeles Clippers,19,63,.232,46.0,,2008
+899,15,Sacramento Kings,17,65,.207,48.0,,2008
+900,,Team,W,L,Pct,GB,,2008
+901,1,Cleveland Cavaliers,66,16,.805,-,x,2008
+902,2,Boston Celtics,62,20,.756,4.0,x,2008
+903,3,Orlando Magic,59,23,.720,7.0,x,2008
+904,4,Atlanta Hawks,47,35,.573,19.0,x,2008
+905,5,Miami Heat,43,39,.524,23.0,x,2008
+906,6,Philadelphia 76ers,41,41,.500,25.0,x,2008
+907,7,Chicago Bulls,41,41,.500,25.0,x,2008
+908,8,Detroit Pistons,39,43,.476,27.0,x,2008
+909,9,Indiana Pacers,36,46,.439,30.0,,2008
+910,10,Charlotte Bobcats,35,47,.427,31.0,,2008
+911,11,New Jersey Nets,34,48,.415,32.0,,2008
+912,12,Milwaukee Bucks,34,48,.415,32.0,,2008
+913,13,Toronto Raptors,33,49,.402,33.0,,2008
+914,14,New York Knicks,32,50,.390,34.0,,2008
+915,15,Washington Wizards,19,63,.232,47.0,,2008
+916,,Team,W,L,Pct,GB,,2008
+917,1,Denver Nuggets,54,28,.659,-,x,2008
+918,2,Portland Trail Blazers,54,28,.659,-,x,2008
+919,3,Utah Jazz,48,34,.585,6.0,x,2008
+920,4,Minnesota Timberwolves,24,58,.293,30.0,,2008
+921,5,Oklahoma City Thunder,23,59,.280,31.0,,2008
+922,,Team,W,L,Pct,GB,,2008
+923,1,Los Angeles Lakers,65,17,.793,-,x,2008
+924,2,Phoenix Suns,46,36,.561,19.0,,2008
+925,3,Golden State Warriors,29,53,.354,36.0,,2008
+926,4,Los Angeles Clippers,19,63,.232,46.0,,2008
+927,5,Sacramento Kings,17,65,.207,48.0,,2008
+928,,Team,W,L,Pct,GB,,2008
+929,1,San Antonio Spurs,54,28,.659,-,x,2008
+930,2,Houston Rockets,53,29,.646,1.0,x,2008
+931,3,Dallas Mavericks,50,32,.610,4.0,x,2008
+932,4,New Orleans Hornets,49,33,.598,5.0,x,2008
+933,5,Memphis Grizzlies,24,58,.293,30.0,,2008
+934,,Team,W,L,Pct,GB,,2008
+935,1,Boston Celtics,62,20,.756,-,x,2008
+936,2,Philadelphia 76ers,41,41,.500,21.0,x,2008
+937,3,New Jersey Nets,34,48,.415,28.0,,2008
+938,4,Toronto Raptors,33,49,.402,29.0,,2008
+939,5,New York Knicks,32,50,.390,30.0,,2008
+940,,Team,W,L,Pct,GB,,2008
+941,1,Cleveland Cavaliers,66,16,.805,-,x,2008
+942,2,Chicago Bulls,41,41,.500,25.0,x,2008
+943,3,Detroit Pistons,39,43,.476,27.0,x,2008
+944,4,Indiana Pacers,36,46,.439,30.0,,2008
+945,5,Milwaukee Bucks,34,48,.415,32.0,,2008
+946,,Team,W,L,Pct,GB,,2008
+947,1,Orlando Magic,59,23,.720,-,x,2008
+948,2,Atlanta Hawks,47,35,.573,12.0,x,2008
+949,3,Miami Heat,43,39,.524,16.0,x,2008
+950,4,Charlotte Bobcats,35,47,.427,24.0,,2008
+951,5,Washington Wizards,19,63,.232,40.0,,2008
+952,,Team,W,L,Pct,GB,,2007
+953,1,Los Angeles Lakers,57,25,.695,-,x,2007
+954,2,New Orleans Hornets,56,26,.683,1.0,x,2007
+955,3,San Antonio Spurs,56,26,.683,1.0,x,2007
+956,4,Utah Jazz,54,28,.659,3.0,x,2007
+957,5,Houston Rockets,55,27,.671,2.0,x,2007
+958,6,Phoenix Suns,55,27,.671,2.0,x,2007
+959,7,Dallas Mavericks,51,31,.622,6.0,x,2007
+960,8,Denver Nuggets,50,32,.610,7.0,x,2007
+961,9,Golden State Warriors,48,34,.585,9.0,,2007
+962,10,Portland Trail Blazers,41,41,.500,16.0,,2007
+963,11,Sacramento Kings,38,44,.463,19.0,,2007
+964,12,Los Angeles Clippers,23,59,.280,34.0,,2007
+965,13,Minnesota Timberwolves,22,60,.268,35.0,,2007
+966,14,Memphis Grizzlies,22,60,.268,35.0,,2007
+967,15,Seattle Supersonics,20,62,.244,37.0,,2007
+968,,Team,W,L,Pct,GB,,2007
+969,1,Boston Celtics,66,16,.805,-,x,2007
+970,2,Detroit Pistons,59,23,.720,7.0,x,2007
+971,3,Orlando Magic,52,30,.634,14.0,x,2007
+972,4,Cleveland Cavaliers,45,37,.549,21.0,x,2007
+973,5,Washington Wizards,43,39,.524,23.0,x,2007
+974,6,Toronto Raptors,41,41,.500,25.0,x,2007
+975,7,Philadelphia 76ers,40,42,.488,26.0,x,2007
+976,8,Atlanta Hawks,37,45,.451,29.0,x,2007
+977,9,Indiana Pacers,36,46,.439,30.0,,2007
+978,10,New Jersey Nets,34,48,.415,32.0,,2007
+979,11,Chicago Bulls,33,49,.402,33.0,,2007
+980,12,Charlotte Bobcats,32,50,.390,34.0,,2007
+981,13,Milwaukee Bucks,26,56,.317,40.0,,2007
+982,14,New York Knicks,23,59,.280,43.0,,2007
+983,15,Miami Heat,15,67,.183,51.0,,2007
+984,,Team,W,L,Pct,GB,,2007
+985,1,Utah Jazz,54,28,.659,-,x,2007
+986,2,Denver Nuggets,50,32,.610,4.0,x,2007
+987,3,Portland Trail Blazers,41,41,.500,13.0,,2007
+988,4,Minnesota Timberwolves,22,60,.268,32.0,,2007
+989,5,Seattle Supersonics,20,62,.244,34.0,,2007
+990,,Team,W,L,Pct,GB,,2007
+991,1,Los Angeles Lakers,57,25,.695,-,x,2007
+992,2,Phoenix Suns,55,27,.671,2.0,x,2007
+993,3,Golden State Warriors,48,34,.585,9.0,,2007
+994,4,Sacramento Kings,38,44,.463,19.0,,2007
+995,5,Los Angeles Clippers,23,59,.280,34.0,,2007
+996,,Team,W,L,Pct,GB,,2007
+997,1,New Orleans Hornets,56,26,.683,-,x,2007
+998,2,San Antonio Spurs,56,26,.683,-,x,2007
+999,3,Houston Rockets,55,27,.671,1.0,x,2007
+1000,4,Dallas Mavericks,51,31,.622,5.0,x,2007
+1001,5,Memphis Grizzlies,22,60,.268,34.0,,2007
+1002,,Team,W,L,Pct,GB,,2007
+1003,1,Boston Celtics,66,16,.805,-,x,2007
+1004,2,Toronto Raptors,41,41,.500,25.0,x,2007
+1005,3,Philadelphia 76ers,40,42,.488,26.0,x,2007
+1006,4,New Jersey Nets,34,48,.415,32.0,,2007
+1007,5,New York Knicks,23,59,.280,43.0,,2007
+1008,,Team,W,L,Pct,GB,,2007
+1009,1,Detroit Pistons,59,23,.720,-,x,2007
+1010,2,Cleveland Cavaliers,45,37,.549,14.0,x,2007
+1011,3,Indiana Pacers,36,46,.439,23.0,,2007
+1012,4,Chicago Bulls,33,49,.402,26.0,,2007
+1013,5,Milwaukee Bucks,26,56,.317,33.0,,2007
+1014,,Team,W,L,Pct,GB,,2007
+1015,1,Orlando Magic,52,30,.634,-,x,2007
+1016,2,Washington Wizards,43,39,.524,9.0,x,2007
+1017,3,Atlanta Hawks,37,45,.451,15.0,x,2007
+1018,4,Charlotte Bobcats,32,50,.390,20.0,,2007
+1019,5,Miami Heat,15,67,.183,37.0,,2007
+1020,,Team,W,L,Pct,GB,,2006
+1021,1,Dallas Mavericks,67,15,.817,-,x,2006
+1022,2,Phoenix Suns,61,21,.744,6.0,x,2006
+1023,3,San Antonio Spurs,58,24,.707,9.0,x,2006
+1024,4,Utah Jazz,51,31,.622,16.0,x,2006
+1025,5,Houston Rockets,52,30,.634,15.0,x,2006
+1026,6,Denver Nuggets,45,37,.549,22.0,x,2006
+1027,7,Los Angeles Lakers,42,40,.512,25.0,x,2006
+1028,8,Golden State Warriors,42,40,.512,25.0,x,2006
+1029,9,Los Angeles Clippers,40,42,.488,27.0,,2006
+1030,10,New Orleans/Oklahoma City Hornets,39,43,.476,28.0,,2006
+1031,11,Sacramento Kings,33,49,.402,34.0,,2006
+1032,12,Portland Trail Blazers,32,50,.390,35.0,,2006
+1033,13,Minnesota Timberwolves,32,50,.390,35.0,,2006
+1034,14,Seattle Supersonics,31,51,.378,36.0,,2006
+1035,15,Memphis Grizzlies,22,60,.268,45.0,,2006
+1036,,Team,W,L,Pct,GB,,2006
+1037,1,Detroit Pistons,53,29,.646,-,x,2006
+1038,2,Cleveland Cavaliers,50,32,.610,3.0,x,2006
+1039,3,Toronto Raptors,47,35,.573,6.0,x,2006
+1040,4,Miami Heat,44,38,.537,9.0,x,2006
+1041,5,Chicago Bulls,49,33,.598,4.0,x,2006
+1042,6,New Jersey Nets,41,41,.500,12.0,x,2006
+1043,7,Washington Wizards,41,41,.500,12.0,x,2006
+1044,8,Orlando Magic,40,42,.488,13.0,x,2006
+1045,9,Indiana Pacers,35,47,.427,18.0,,2006
+1046,10,Philadelphia 76ers,35,47,.427,18.0,,2006
+1047,11,Charlotte Bobcats,33,49,.402,20.0,,2006
+1048,12,New York Knicks,33,49,.402,20.0,,2006
+1049,13,Atlanta Hawks,30,52,.366,23.0,,2006
+1050,14,Milwaukee Bucks,28,54,.341,25.0,,2006
+1051,15,Boston Celtics,24,58,.293,29.0,,2006
+1052,,Team,W,L,Pct,GB,,2006
+1053,1,Utah Jazz,51,31,.622,-,x,2006
+1054,2,Denver Nuggets,45,37,.549,6.0,x,2006
+1055,3,Portland Trail Blazers,32,50,.390,19.0,,2006
+1056,4,Minnesota Timberwolves,32,50,.390,19.0,,2006
+1057,5,Seattle Supersonics,31,51,.378,20.0,,2006
+1058,,Team,W,L,Pct,GB,,2006
+1059,1,Phoenix Suns,61,21,.744,-,x,2006
+1060,2,Los Angeles Lakers,42,40,.512,19.0,x,2006
+1061,3,Golden State Warriors,42,40,.512,19.0,x,2006
+1062,4,Los Angeles Clippers,40,42,.488,21.0,,2006
+1063,5,Sacramento Kings,33,49,.402,28.0,,2006
+1064,,Team,W,L,Pct,GB,,2006
+1065,1,Dallas Mavericks,67,15,.817,-,x,2006
+1066,2,San Antonio Spurs,58,24,.707,9.0,x,2006
+1067,3,Houston Rockets,52,30,.634,15.0,x,2006
+1068,4,New Orleans/Oklahoma City Hornets,39,43,.476,28.0,,2006
+1069,5,Memphis Grizzlies,22,60,.268,45.0,,2006
+1070,,Team,W,L,Pct,GB,,2006
+1071,1,Toronto Raptors,47,35,.573,-,x,2006
+1072,2,New Jersey Nets,41,41,.500,6.0,x,2006
+1073,3,Philadelphia 76ers,35,47,.427,12.0,,2006
+1074,4,New York Knicks,33,49,.402,14.0,,2006
+1075,5,Boston Celtics,24,58,.293,23.0,,2006
+1076,,Team,W,L,Pct,GB,,2006
+1077,1,Detroit Pistons,53,29,.646,-,x,2006
+1078,2,Cleveland Cavaliers,50,32,.610,3.0,x,2006
+1079,3,Chicago Bulls,49,33,.598,4.0,x,2006
+1080,4,Indiana Pacers,35,47,.427,18.0,,2006
+1081,5,Milwaukee Bucks,28,54,.341,25.0,,2006
+1082,,Team,W,L,Pct,GB,,2006
+1083,1,Miami Heat,44,38,.537,-,x,2006
+1084,2,Washington Wizards,41,41,.500,3.0,x,2006
+1085,3,Orlando Magic,40,42,.488,4.0,x,2006
+1086,4,Charlotte Bobcats,33,49,.402,11.0,,2006
+1087,5,Atlanta Hawks,30,52,.366,14.0,,2006
+1088,,Team,W,L,Pct,GB,,2005
+1089,1,San Antonio Spurs,63,19,.768,-,x,2005
+1090,2,Phoenix Suns,54,28,.659,9.0,x,2005
+1091,3,Denver Nuggets,44,38,.537,19.0,x,2005
+1092,4,Dallas Mavericks,60,22,.732,3.0,x,2005
+1093,5,Memphis Grizzlies,49,33,.598,14.0,x,2005
+1094,6,Los Angeles Clippers,47,35,.573,16.0,x,2005
+1095,7,Los Angeles Lakers,45,37,.549,18.0,x,2005
+1096,8,Sacramento Kings,44,38,.537,19.0,x,2005
+1097,9,Utah Jazz,41,41,.500,22.0,,2005
+1098,10,New Orleans/Oklahoma City Hornets,38,44,.463,25.0,,2005
+1099,11,Seattle Supersonics,35,47,.427,28.0,,2005
+1100,12,Houston Rockets,34,48,.415,29.0,,2005
+1101,13,Golden State Warriors,34,48,.415,29.0,,2005
+1102,14,Minnesota Timberwolves,33,49,.402,30.0,,2005
+1103,15,Portland Trail Blazers,21,61,.256,42.0,,2005
+1104,,Team,W,L,Pct,GB,,2005
+1105,1,Detroit Pistons,64,18,.780,-,x,2005
+1106,2,Miami Heat,52,30,.634,12.0,x,2005
+1107,3,New Jersey Nets,49,33,.598,15.0,x,2005
+1108,4,Cleveland Cavaliers,50,32,.610,14.0,x,2005
+1109,5,Washington Wizards,42,40,.512,22.0,x,2005
+1110,6,Indiana Pacers,41,41,.500,23.0,x,2005
+1111,7,Chicago Bulls,41,41,.500,23.0,x,2005
+1112,8,Milwaukee Bucks,40,42,.488,24.0,x,2005
+1113,9,Philadelphia 76ers,38,44,.463,26.0,,2005
+1114,10,Orlando Magic,36,46,.439,28.0,,2005
+1115,11,Boston Celtics,33,49,.402,31.0,,2005
+1116,12,Toronto Raptors,27,55,.329,37.0,,2005
+1117,13,Charlotte Bobcats,26,56,.317,38.0,,2005
+1118,14,Atlanta Hawks,26,56,.317,38.0,,2005
+1119,15,New York Knicks,23,59,.280,41.0,,2005
+1120,,Team,W,L,Pct,GB,,2005
+1121,1,Denver Nuggets,44,38,.537,-,x,2005
+1122,2,Utah Jazz,41,41,.500,3.0,,2005
+1123,3,Seattle Supersonics,35,47,.427,9.0,,2005
+1124,4,Minnesota Timberwolves,33,49,.402,11.0,,2005
+1125,5,Portland Trail Blazers,21,61,.256,23.0,,2005
+1126,,Team,W,L,Pct,GB,,2005
+1127,1,Phoenix Suns,54,28,.659,-,x,2005
+1128,2,Los Angeles Clippers,47,35,.573,7.0,x,2005
+1129,3,Los Angeles Lakers,45,37,.549,9.0,x,2005
+1130,4,Sacramento Kings,44,38,.537,10.0,x,2005
+1131,5,Golden State Warriors,34,48,.415,20.0,,2005
+1132,,Team,W,L,Pct,GB,,2005
+1133,1,San Antonio Spurs,63,19,.768,-,x,2005
+1134,2,Dallas Mavericks,60,22,.732,3.0,x,2005
+1135,3,Memphis Grizzlies,49,33,.598,14.0,x,2005
+1136,4,New Orleans/Oklahoma City Hornets,38,44,.463,25.0,,2005
+1137,5,Houston Rockets,34,48,.415,29.0,,2005
+1138,,Team,W,L,Pct,GB,,2005
+1139,1,New Jersey Nets,49,33,.598,-,x,2005
+1140,2,Philadelphia 76ers,38,44,.463,11.0,,2005
+1141,3,Boston Celtics,33,49,.402,16.0,,2005
+1142,4,Toronto Raptors,27,55,.329,22.0,,2005
+1143,5,New York Knicks,23,59,.280,26.0,,2005
+1144,,Team,W,L,Pct,GB,,2005
+1145,1,Detroit Pistons,64,18,.780,-,x,2005
+1146,2,Cleveland Cavaliers,50,32,.610,14.0,x,2005
+1147,3,Indiana Pacers,41,41,.500,23.0,x,2005
+1148,4,Chicago Bulls,41,41,.500,23.0,x,2005
+1149,5,Milwaukee Bucks,40,42,.488,24.0,x,2005
+1150,,Team,W,L,Pct,GB,,2005
+1151,1,Miami Heat,52,30,.634,-,x,2005
+1152,2,Washington Wizards,42,40,.512,10.0,x,2005
+1153,3,Orlando Magic,36,46,.439,16.0,,2005
+1154,4,Charlotte Bobcats,26,56,.317,26.0,,2005
+1155,5,Atlanta Hawks,26,56,.317,26.0,,2005
+1156,,Team,W,L,Pct,GB,,2004
+1157,1,Phoenix Suns,62,20,.756,-,x,2004
+1158,2,San Antonio Spurs,59,23,.720,3.0,x,2004
+1159,3,Seattle Supersonics,52,30,.634,10.0,x,2004
+1160,4,Dallas Mavericks,58,24,.707,4.0,x,2004
+1161,5,Houston Rockets,51,31,.622,11.0,x,2004
+1162,6,Sacramento Kings,50,32,.610,12.0,x,2004
+1163,7,Denver Nuggets,49,33,.598,13.0,x,2004
+1164,8,Memphis Grizzlies,45,37,.549,17.0,x,2004
+1165,9,Minnesota Timberwolves,44,38,.537,18.0,,2004
+1166,10,Los Angeles Clippers,37,45,.451,25.0,,2004
+1167,11,Los Angeles Lakers,34,48,.415,28.0,,2004
+1168,12,Golden State Warriors,34,48,.415,28.0,,2004
+1169,13,Portland Trail Blazers,27,55,.329,35.0,,2004
+1170,14,Utah Jazz,26,56,.317,36.0,,2004
+1171,15,New Orleans Hornets,18,64,.220,44.0,,2004
+1172,,Team,W,L,Pct,GB,,2004
+1173,1,Miami Heat,59,23,.720,-,x,2004
+1174,2,Detroit Pistons,54,28,.659,5.0,x,2004
+1175,3,Boston Celtics,45,37,.549,14.0,x,2004
+1176,4,Chicago Bulls,47,35,.573,12.0,x,2004
+1177,5,Washington Wizards,45,37,.549,14.0,x,2004
+1178,6,Indiana Pacers,44,38,.537,15.0,x,2004
+1179,7,Philadelphia 76ers,43,39,.524,16.0,x,2004
+1180,8,New Jersey Nets,42,40,.512,17.0,x,2004
+1181,9,Cleveland Cavaliers,42,40,.512,17.0,,2004
+1182,10,Orlando Magic,36,46,.439,23.0,,2004
+1183,11,Toronto Raptors,33,49,.402,26.0,,2004
+1184,12,New York Knicks,33,49,.402,26.0,,2004
+1185,13,Milwaukee Bucks,30,52,.366,29.0,,2004
+1186,14,Charlotte Bobcats,18,64,.220,41.0,,2004
+1187,15,Atlanta Hawks,13,69,.159,46.0,,2004
+1188,,Team,W,L,Pct,GB,,2004
+1189,1,Seattle Supersonics,52,30,.634,-,x,2004
+1190,2,Denver Nuggets,49,33,.598,3.0,x,2004
+1191,3,Minnesota Timberwolves,44,38,.537,8.0,,2004
+1192,4,Portland Trail Blazers,27,55,.329,25.0,,2004
+1193,5,Utah Jazz,26,56,.317,26.0,,2004
+1194,,Team,W,L,Pct,GB,,2004
+1195,1,Phoenix Suns,62,20,.756,-,x,2004
+1196,2,Sacramento Kings,50,32,.610,12.0,x,2004
+1197,3,Los Angeles Clippers,37,45,.451,25.0,,2004
+1198,4,Los Angeles Lakers,34,48,.415,28.0,,2004
+1199,5,Golden State Warriors,34,48,.415,28.0,,2004
+1200,,Team,W,L,Pct,GB,,2004
+1201,1,San Antonio Spurs,59,23,.720,-,x,2004
+1202,2,Dallas Mavericks,58,24,.707,1.0,x,2004
+1203,3,Houston Rockets,51,31,.622,8.0,x,2004
+1204,4,Memphis Grizzlies,45,37,.549,14.0,x,2004
+1205,5,New Orleans Hornets,18,64,.220,41.0,,2004
+1206,,Team,W,L,Pct,GB,,2004
+1207,1,Boston Celtics,45,37,.549,-,x,2004
+1208,2,Philadelphia 76ers,43,39,.524,2.0,x,2004
+1209,3,New Jersey Nets,42,40,.512,3.0,x,2004
+1210,4,Toronto Raptors,33,49,.402,12.0,,2004
+1211,5,New York Knicks,33,49,.402,12.0,,2004
+1212,,Team,W,L,Pct,GB,,2004
+1213,1,Detroit Pistons,54,28,.659,-,x,2004
+1214,2,Chicago Bulls,47,35,.573,7.0,x,2004
+1215,3,Indiana Pacers,44,38,.537,10.0,x,2004
+1216,4,Cleveland Cavaliers,42,40,.512,12.0,,2004
+1217,5,Milwaukee Bucks,30,52,.366,24.0,,2004
+1218,,Team,W,L,Pct,GB,,2004
+1219,1,Miami Heat,59,23,.720,-,x,2004
+1220,2,Washington Wizards,45,37,.549,14.0,x,2004
+1221,3,Orlando Magic,36,46,.439,23.0,,2004
+1222,4,Charlotte Bobcats,18,64,.220,41.0,,2004
+1223,5,Atlanta Hawks,13,69,.159,46.0,,2004
+1224,,Team,W,L,Pct,GB,,2003
+1225,1,Minnesota Timberwolves,58,24,.707,-,x,2003
+1226,2,Los Angeles Lakers,56,26,.683,2.0,x,2003
+1227,3,San Antonio Spurs,57,25,.695,1.0,x,2003
+1228,4,Sacramento Kings,55,27,.671,3.0,x,2003
+1229,5,Dallas Mavericks,52,30,.634,6.0,x,2003
+1230,6,Memphis Grizzlies,50,32,.610,8.0,x,2003
+1231,7,Houston Rockets,45,37,.549,13.0,x,2003
+1232,8,Denver Nuggets,43,39,.524,15.0,x,2003
+1233,9,Utah Jazz,42,40,.512,16.0,,2003
+1234,10,Portland Trail Blazers,41,41,.500,17.0,,2003
+1235,11,Golden State Warriors,37,45,.451,21.0,,2003
+1236,12,Seattle Supersonics,37,45,.451,21.0,,2003
+1237,13,Phoenix Suns,29,53,.354,29.0,,2003
+1238,14,Los Angeles Clippers,28,54,.341,30.0,,2003
+1239,,Team,W,L,Pct,GB,,2003
+1240,1,Indiana Pacers,61,21,.744,-,x,2003
+1241,2,New Jersey Nets,47,35,.573,14.0,x,2003
+1242,3,Detroit Pistons,54,28,.659,7.0,x,2003
+1243,4,Miami Heat,42,40,.512,19.0,x,2003
+1244,5,New Orleans Hornets,41,41,.500,20.0,x,2003
+1245,6,Milwaukee Bucks,41,41,.500,20.0,x,2003
+1246,7,New York Knicks,39,43,.476,22.0,x,2003
+1247,8,Boston Celtics,36,46,.439,25.0,x,2003
+1248,9,Cleveland Cavaliers,35,47,.427,26.0,,2003
+1249,10,Toronto Raptors,33,49,.402,28.0,,2003
+1250,11,Philadelphia 76ers,33,49,.402,28.0,,2003
+1251,12,Atlanta Hawks,28,54,.341,33.0,,2003
+1252,13,Washington Wizards,25,57,.305,36.0,,2003
+1253,14,Chicago Bulls,23,59,.280,38.0,,2003
+1254,15,Orlando Magic,21,61,.256,40.0,,2003
+1255,,Team,W,L,Pct,GB,,2003
+1256,1,Minnesota Timberwolves,58,24,.707,-,x,2003
+1257,2,San Antonio Spurs,57,25,.695,1.0,x,2003
+1258,3,Dallas Mavericks,52,30,.634,6.0,x,2003
+1259,4,Memphis Grizzlies,50,32,.610,8.0,x,2003
+1260,5,Houston Rockets,45,37,.549,13.0,x,2003
+1261,6,Denver Nuggets,43,39,.524,15.0,x,2003
+1262,7,Utah Jazz,42,40,.512,16.0,,2003
+1263,,Team,W,L,Pct,GB,,2003
+1264,1,Los Angeles Lakers,56,26,.683,-,x,2003
+1265,2,Sacramento Kings,55,27,.671,1.0,x,2003
+1266,3,Portland Trail Blazers,41,41,.500,15.0,,2003
+1267,4,Golden State Warriors,37,45,.451,19.0,,2003
+1268,5,Seattle Supersonics,37,45,.451,19.0,,2003
+1269,6,Phoenix Suns,29,53,.354,27.0,,2003
+1270,7,Los Angeles Clippers,28,54,.341,28.0,,2003
+1271,,Team,W,L,Pct,GB,,2003
+1272,1,New Jersey Nets,47,35,.573,-,x,2003
+1273,2,Miami Heat,42,40,.512,5.0,x,2003
+1274,3,New York Knicks,39,43,.476,8.0,x,2003
+1275,4,Boston Celtics,36,46,.439,11.0,x,2003
+1276,5,Philadelphia 76ers,33,49,.402,14.0,,2003
+1277,6,Washington Wizards,25,57,.305,22.0,,2003
+1278,7,Orlando Magic,21,61,.256,26.0,,2003
+1279,,Team,W,L,Pct,GB,,2003
+1280,1,Indiana Pacers,61,21,.744,-,x,2003
+1281,2,Detroit Pistons,54,28,.659,7.0,x,2003
+1282,3,New Orleans Hornets,41,41,.500,20.0,x,2003
+1283,4,Milwaukee Bucks,41,41,.500,20.0,x,2003
+1284,5,Cleveland Cavaliers,35,47,.427,26.0,,2003
+1285,6,Toronto Raptors,33,49,.402,28.0,,2003
+1286,7,Atlanta Hawks,28,54,.341,33.0,,2003
+1287,8,Chicago Bulls,23,59,.280,38.0,,2003
+1288,,Team,W,L,Pct,GB,,2002
+1289,1,San Antonio Spurs,60,22,.732,-,x,2002
+1290,2,Sacramento Kings,59,23,.720,1.0,x,2002
+1291,3,Dallas Mavericks,60,22,.732,-,x,2002
+1292,4,Minnesota Timberwolves,51,31,.622,9.0,x,2002
+1293,5,Los Angeles Lakers,50,32,.610,10.0,x,2002
+1294,6,Portland Trail Blazers,50,32,.610,10.0,x,2002
+1295,7,Utah Jazz,47,35,.573,13.0,x,2002
+1296,8,Phoenix Suns,44,38,.537,16.0,x,2002
+1297,9,Houston Rockets,43,39,.524,17.0,,2002
+1298,10,Seattle Supersonics,40,42,.488,20.0,,2002
+1299,11,Golden State Warriors,38,44,.463,22.0,,2002
+1300,12,Memphis Grizzlies,28,54,.341,32.0,,2002
+1301,13,Los Angeles Clippers,27,55,.329,33.0,,2002
+1302,14,Denver Nuggets,17,65,.207,43.0,,2002
+1303,,Team,W,L,Pct,GB,,2002
+1304,1,Detroit Pistons,50,32,.610,-,x,2002
+1305,2,New Jersey Nets,49,33,.598,1.0,x,2002
+1306,3,Indiana Pacers,48,34,.585,2.0,x,2002
+1307,4,Philadelphia 76ers,48,34,.585,2.0,x,2002
+1308,5,New Orleans Hornets,47,35,.573,3.0,x,2002
+1309,6,Boston Celtics,44,38,.537,6.0,x,2002
+1310,7,Milwaukee Bucks,42,40,.512,8.0,x,2002
+1311,8,Orlando Magic,42,40,.512,8.0,x,2002
+1312,9,Washington Wizards,37,45,.451,13.0,,2002
+1313,10,New York Knicks,37,45,.451,13.0,,2002
+1314,11,Atlanta Hawks,35,47,.427,15.0,,2002
+1315,12,Chicago Bulls,30,52,.366,20.0,,2002
+1316,13,Miami Heat,25,57,.305,25.0,,2002
+1317,14,Toronto Raptors,24,58,.293,26.0,,2002
+1318,15,Cleveland Cavaliers,17,65,.207,33.0,,2002
+1319,,Team,W,L,Pct,GB,,2002
+1320,1,San Antonio Spurs,60,22,.732,-,x,2002
+1321,2,Dallas Mavericks,60,22,.732,-,x,2002
+1322,3,Minnesota Timberwolves,51,31,.622,9.0,x,2002
+1323,4,Utah Jazz,47,35,.573,13.0,x,2002
+1324,5,Houston Rockets,43,39,.524,17.0,,2002
+1325,6,Memphis Grizzlies,28,54,.341,32.0,,2002
+1326,7,Denver Nuggets,17,65,.207,43.0,,2002
+1327,,Team,W,L,Pct,GB,,2002
+1328,1,Sacramento Kings,59,23,.720,-,x,2002
+1329,2,Los Angeles Lakers,50,32,.610,9.0,x,2002
+1330,3,Portland Trail Blazers,50,32,.610,9.0,x,2002
+1331,4,Phoenix Suns,44,38,.537,15.0,x,2002
+1332,5,Seattle Supersonics,40,42,.488,19.0,,2002
+1333,6,Golden State Warriors,38,44,.463,21.0,,2002
+1334,7,Los Angeles Clippers,27,55,.329,32.0,,2002
+1335,,Team,W,L,Pct,GB,,2002
+1336,1,New Jersey Nets,49,33,.598,-,x,2002
+1337,2,Philadelphia 76ers,48,34,.585,1.0,x,2002
+1338,3,Boston Celtics,44,38,.537,5.0,x,2002
+1339,4,Orlando Magic,42,40,.512,7.0,x,2002
+1340,5,Washington Wizards,37,45,.451,12.0,,2002
+1341,6,New York Knicks,37,45,.451,12.0,,2002
+1342,7,Miami Heat,25,57,.305,24.0,,2002
+1343,,Team,W,L,Pct,GB,,2002
+1344,1,Detroit Pistons,50,32,.610,-,x,2002
+1345,2,Indiana Pacers,48,34,.585,2.0,x,2002
+1346,3,New Orleans Hornets,47,35,.573,3.0,x,2002
+1347,4,Milwaukee Bucks,42,40,.512,8.0,x,2002
+1348,5,Atlanta Hawks,35,47,.427,15.0,,2002
+1349,6,Chicago Bulls,30,52,.366,20.0,,2002
+1350,7,Toronto Raptors,24,58,.293,26.0,,2002
+1351,8,Cleveland Cavaliers,17,65,.207,33.0,,2002
+1352,,Team,W,L,Pct,GB,,2001
+1353,1,Sacramento Kings,61,21,.744,-,x,2001
+1354,2,San Antonio Spurs,58,24,.707,3.0,x,2001
+1355,3,Los Angeles Lakers,58,24,.707,3.0,x,2001
+1356,4,Dallas Mavericks,57,25,.695,4.0,x,2001
+1357,5,Minnesota Timberwolves,50,32,.610,11.0,x,2001
+1358,6,Portland Trail Blazers,49,33,.598,12.0,x,2001
+1359,7,Seattle Supersonics,45,37,.549,16.0,x,2001
+1360,8,Utah Jazz,44,38,.537,17.0,x,2001
+1361,9,Los Angeles Clippers,39,43,.476,22.0,,2001
+1362,10,Phoenix Suns,36,46,.439,25.0,,2001
+1363,11,Houston Rockets,28,54,.341,33.0,,2001
+1364,12,Denver Nuggets,27,55,.329,34.0,,2001
+1365,13,Memphis Grizzlies,23,59,.280,38.0,,2001
+1366,14,Golden State Warriors,21,61,.256,40.0,,2001
+1367,,Team,W,L,Pct,GB,,2001
+1368,1,New Jersey Nets,52,30,.634,-,x,2001
+1369,2,Detroit Pistons,50,32,.610,2.0,x,2001
+1370,3,Boston Celtics,49,33,.598,3.0,x,2001
+1371,4,Charlotte Hornets,44,38,.537,8.0,x,2001
+1372,5,Orlando Magic,44,38,.537,8.0,x,2001
+1373,6,Philadelphia 76ers,43,39,.524,9.0,x,2001
+1374,7,Toronto Raptors,42,40,.512,10.0,x,2001
+1375,8,Indiana Pacers,42,40,.512,10.0,x,2001
+1376,9,Milwaukee Bucks,41,41,.500,11.0,,2001
+1377,10,Washington Wizards,37,45,.451,15.0,,2001
+1378,11,Miami Heat,36,46,.439,16.0,,2001
+1379,12,Atlanta Hawks,33,49,.402,19.0,,2001
+1380,13,New York Knicks,30,52,.366,22.0,,2001
+1381,14,Cleveland Cavaliers,29,53,.354,23.0,,2001
+1382,15,Chicago Bulls,21,61,.256,31.0,,2001
+1383,,Team,W,L,Pct,GB,,2001
+1384,1,San Antonio Spurs,58,24,.707,-,x,2001
+1385,2,Dallas Mavericks,57,25,.695,1.0,x,2001
+1386,3,Minnesota Timberwolves,50,32,.610,8.0,x,2001
+1387,4,Utah Jazz,44,38,.537,14.0,x,2001
+1388,5,Houston Rockets,28,54,.341,30.0,,2001
+1389,6,Denver Nuggets,27,55,.329,31.0,,2001
+1390,7,Memphis Grizzlies,23,59,.280,35.0,,2001
+1391,,Team,W,L,Pct,GB,,2001
+1392,1,Sacramento Kings,61,21,.744,-,x,2001
+1393,2,Los Angeles Lakers,58,24,.707,3.0,x,2001
+1394,3,Portland Trail Blazers,49,33,.598,12.0,x,2001
+1395,4,Seattle Supersonics,45,37,.549,16.0,x,2001
+1396,5,Los Angeles Clippers,39,43,.476,22.0,,2001
+1397,6,Phoenix Suns,36,46,.439,25.0,,2001
+1398,7,Golden State Warriors,21,61,.256,40.0,,2001
+1399,,Team,W,L,Pct,GB,,2001
+1400,1,New Jersey Nets,52,30,.634,-,x,2001
+1401,2,Boston Celtics,49,33,.598,3.0,x,2001
+1402,3,Orlando Magic,44,38,.537,8.0,x,2001
+1403,4,Philadelphia 76ers,43,39,.524,9.0,x,2001
+1404,5,Washington Wizards,37,45,.451,15.0,,2001
+1405,6,Miami Heat,36,46,.439,16.0,,2001
+1406,7,New York Knicks,30,52,.366,22.0,,2001
+1407,,Team,W,L,Pct,GB,,2001
+1408,1,Detroit Pistons,50,32,.610,-,x,2001
+1409,2,Charlotte Hornets,44,38,.537,6.0,x,2001
+1410,3,Toronto Raptors,42,40,.512,8.0,x,2001
+1411,4,Indiana Pacers,42,40,.512,8.0,x,2001
+1412,5,Milwaukee Bucks,41,41,.500,9.0,,2001
+1413,6,Atlanta Hawks,33,49,.402,17.0,,2001
+1414,7,Cleveland Cavaliers,29,53,.354,21.0,,2001
+1415,8,Chicago Bulls,21,61,.256,29.0,,2001
+1416,,Team,W,L,Pct,GB,,2000
+1417,1,San Antonio Spurs,58,24,.707,-,x,2000
+1418,2,Los Angeles Lakers,56,26,.683,2.0,x,2000
+1419,3,Sacramento Kings,55,27,.671,3.0,x,2000
+1420,4,Utah Jazz,53,29,.646,5.0,x,2000
+1421,5,Dallas Mavericks,53,29,.646,5.0,x,2000
+1422,6,Phoenix Suns,51,31,.622,7.0,x,2000
+1423,7,Portland Trail Blazers,50,32,.610,8.0,x,2000
+1424,8,Minnesota Timberwolves,47,35,.573,11.0,x,2000
+1425,9,Houston Rockets,45,37,.549,13.0,,2000
+1426,10,Seattle Supersonics,44,38,.537,14.0,,2000
+1427,11,Denver Nuggets,40,42,.488,18.0,,2000
+1428,12,Los Angeles Clippers,31,51,.378,27.0,,2000
+1429,13,Vancouver Grizzlies,23,59,.280,35.0,,2000
+1430,14,Golden State Warriors,17,65,.207,41.0,,2000
+1431,,Team,W,L,Pct,GB,,2000
+1432,1,Philadelphia 76ers,56,26,.683,-,x,2000
+1433,2,Milwaukee Bucks,52,30,.634,4.0,x,2000
+1434,3,Miami Heat,50,32,.610,6.0,x,2000
+1435,4,New York Knicks,48,34,.585,8.0,x,2000
+1436,5,Toronto Raptors,47,35,.573,9.0,x,2000
+1437,6,Charlotte Hornets,46,36,.561,10.0,x,2000
+1438,7,Orlando Magic,43,39,.524,13.0,x,2000
+1439,8,Indiana Pacers,41,41,.500,15.0,x,2000
+1440,9,Boston Celtics,36,46,.439,20.0,,2000
+1441,10,Detroit Pistons,32,50,.390,24.0,,2000
+1442,11,Cleveland Cavaliers,30,52,.366,26.0,,2000
+1443,12,New Jersey Nets,26,56,.317,30.0,,2000
+1444,13,Atlanta Hawks,25,57,.305,31.0,,2000
+1445,14,Washington Wizards,19,63,.232,37.0,,2000
+1446,15,Chicago Bulls,15,67,.183,41.0,,2000
+1447,,Team,W,L,Pct,GB,,2000
+1448,1,San Antonio Spurs,58,24,.707,-,x,2000
+1449,2,Utah Jazz,53,29,.646,5.0,x,2000
+1450,3,Dallas Mavericks,53,29,.646,5.0,x,2000
+1451,4,Minnesota Timberwolves,47,35,.573,11.0,x,2000
+1452,5,Houston Rockets,45,37,.549,13.0,,2000
+1453,6,Denver Nuggets,40,42,.488,18.0,,2000
+1454,7,Vancouver Grizzlies,23,59,.280,35.0,,2000
+1455,,Team,W,L,Pct,GB,,2000
+1456,1,Los Angeles Lakers,56,26,.683,-,x,2000
+1457,2,Sacramento Kings,55,27,.671,1.0,x,2000
+1458,3,Phoenix Suns,51,31,.622,5.0,x,2000
+1459,4,Portland Trail Blazers,50,32,.610,6.0,x,2000
+1460,5,Seattle Supersonics,44,38,.537,12.0,,2000
+1461,6,Los Angeles Clippers,31,51,.378,25.0,,2000
+1462,7,Golden State Warriors,17,65,.207,39.0,,2000
+1463,,Team,W,L,Pct,GB,,2000
+1464,1,Philadelphia 76ers,56,26,.683,-,x,2000
+1465,2,Miami Heat,50,32,.610,6.0,x,2000
+1466,3,New York Knicks,48,34,.585,8.0,x,2000
+1467,4,Orlando Magic,43,39,.524,13.0,x,2000
+1468,5,Boston Celtics,36,46,.439,20.0,,2000
+1469,6,New Jersey Nets,26,56,.317,30.0,,2000
+1470,7,Washington Wizards,19,63,.232,37.0,,2000
+1471,,Team,W,L,Pct,GB,,2000
+1472,1,Milwaukee Bucks,52,30,.634,-,x,2000
+1473,2,Toronto Raptors,47,35,.573,5.0,x,2000
+1474,3,Charlotte Hornets,46,36,.561,6.0,x,2000
+1475,4,Indiana Pacers,41,41,.500,11.0,x,2000
+1476,5,Detroit Pistons,32,50,.390,20.0,,2000
+1477,6,Cleveland Cavaliers,30,52,.366,22.0,,2000
+1478,7,Atlanta Hawks,25,57,.305,27.0,,2000
+1479,8,Chicago Bulls,15,67,.183,37.0,,2000
+1480,,Team,W,L,Pct,GB,,1999
+1481,1,Los Angeles Lakers,67,15,.817,-,x,1999
+1482,2,Utah Jazz,55,27,.671,12.0,x,1999
+1483,3,Portland Trail Blazers,59,23,.720,8.0,x,1999
+1484,4,San Antonio Spurs,53,29,.646,14.0,x,1999
+1485,5,Phoenix Suns,53,29,.646,14.0,x,1999
+1486,6,Minnesota Timberwolves,50,32,.610,17.0,x,1999
+1487,7,Seattle Supersonics,45,37,.549,22.0,x,1999
+1488,8,Sacramento Kings,44,38,.537,23.0,x,1999
+1489,9,Dallas Mavericks,40,42,.488,27.0,,1999
+1490,10,Denver Nuggets,35,47,.427,32.0,,1999
+1491,11,Houston Rockets,34,48,.415,33.0,,1999
+1492,12,Vancouver Grizzlies,22,60,.268,45.0,,1999
+1493,13,Golden State Warriors,19,63,.232,48.0,,1999
+1494,14,Los Angeles Clippers,15,67,.183,52.0,,1999
+1495,,Team,W,L,Pct,GB,,1999
+1496,1,Indiana Pacers,56,26,.683,-,x,1999
+1497,2,Miami Heat,52,30,.634,4.0,x,1999
+1498,3,New York Knicks,50,32,.610,6.0,x,1999
+1499,4,Philadelphia 76ers,49,33,.598,7.0,x,1999
+1500,5,Charlotte Hornets,49,33,.598,7.0,x,1999
+1501,6,Toronto Raptors,45,37,.549,11.0,x,1999
+1502,7,Detroit Pistons,42,40,.512,14.0,x,1999
+1503,8,Milwaukee Bucks,42,40,.512,14.0,x,1999
+1504,9,Orlando Magic,41,41,.500,15.0,,1999
+1505,10,Boston Celtics,35,47,.427,21.0,,1999
+1506,11,Cleveland Cavaliers,32,50,.390,24.0,,1999
+1507,12,New Jersey Nets,31,51,.378,25.0,,1999
+1508,13,Washington Wizards,29,53,.354,27.0,,1999
+1509,14,Atlanta Hawks,28,54,.341,28.0,,1999
+1510,15,Chicago Bulls,17,65,.207,39.0,,1999
+1511,,Team,W,L,Pct,GB,,1999
+1512,1,Utah Jazz,55,27,.671,-,x,1999
+1513,2,San Antonio Spurs,53,29,.646,2.0,x,1999
+1514,3,Minnesota Timberwolves,50,32,.610,5.0,x,1999
+1515,4,Dallas Mavericks,40,42,.488,15.0,,1999
+1516,5,Denver Nuggets,35,47,.427,20.0,,1999
+1517,6,Houston Rockets,34,48,.415,21.0,,1999
+1518,7,Vancouver Grizzlies,22,60,.268,33.0,,1999
+1519,,Team,W,L,Pct,GB,,1999
+1520,1,Los Angeles Lakers,67,15,.817,-,x,1999
+1521,2,Portland Trail Blazers,59,23,.720,8.0,x,1999
+1522,3,Phoenix Suns,53,29,.646,14.0,x,1999
+1523,4,Seattle Supersonics,45,37,.549,22.0,x,1999
+1524,5,Sacramento Kings,44,38,.537,23.0,x,1999
+1525,6,Golden State Warriors,19,63,.232,48.0,,1999
+1526,7,Los Angeles Clippers,15,67,.183,52.0,,1999
+1527,,Team,W,L,Pct,GB,,1999
+1528,1,Miami Heat,52,30,.634,-,x,1999
+1529,2,New York Knicks,50,32,.610,2.0,x,1999
+1530,3,Philadelphia 76ers,49,33,.598,3.0,x,1999
+1531,4,Orlando Magic,41,41,.500,11.0,,1999
+1532,5,Boston Celtics,35,47,.427,17.0,,1999
+1533,6,New Jersey Nets,31,51,.378,21.0,,1999
+1534,7,Washington Wizards,29,53,.354,23.0,,1999
+1535,,Team,W,L,Pct,GB,,1999
+1536,1,Indiana Pacers,56,26,.683,-,x,1999
+1537,2,Charlotte Hornets,49,33,.598,7.0,x,1999
+1538,3,Toronto Raptors,45,37,.549,11.0,x,1999
+1539,4,Detroit Pistons,42,40,.512,14.0,x,1999
+1540,5,Milwaukee Bucks,42,40,.512,14.0,x,1999
+1541,6,Cleveland Cavaliers,32,50,.390,24.0,,1999
+1542,7,Atlanta Hawks,28,54,.341,28.0,,1999
+1543,8,Chicago Bulls,17,65,.207,39.0,,1999
+1544,,Team,W,L,Pct,GB,,1998
+1545,1,San Antonio Spurs,37,13,.740,-,x,1998
+1546,2,Utah Jazz,37,13,.740,-,x,1998
+1547,3,Portland Trail Blazers,35,15,.700,2.0,x,1998
+1548,4,Houston Rockets,31,19,.620,6.0,x,1998
+1549,5,Los Angeles Lakers,31,19,.620,6.0,x,1998
+1550,6,Phoenix Suns,27,23,.540,10.0,x,1998
+1551,7,Sacramento Kings,27,23,.540,10.0,x,1998
+1552,8,Minnesota Timberwolves,25,25,.500,12.0,x,1998
+1553,9,Seattle Supersonics,25,25,.500,12.0,,1998
+1554,10,Golden State Warriors,21,29,.420,16.0,,1998
+1555,11,Dallas Mavericks,19,31,.380,18.0,,1998
+1556,12,Denver Nuggets,14,36,.280,23.0,,1998
+1557,13,Los Angeles Clippers,9,41,.180,28.0,,1998
+1558,14,Vancouver Grizzlies,8,42,.160,29.0,,1998
+1559,,Team,W,L,Pct,GB,,1998
+1560,1,Miami Heat,33,17,.660,-,x,1998
+1561,2,Indiana Pacers,33,17,.660,-,x,1998
+1562,3,Orlando Magic,33,17,.660,-,x,1998
+1563,4,Atlanta Hawks,31,19,.620,2.0,x,1998
+1564,5,Detroit Pistons,29,21,.580,4.0,x,1998
+1565,6,Philadelphia 76ers,28,22,.560,5.0,x,1998
+1566,7,Milwaukee Bucks,28,22,.560,5.0,x,1998
+1567,8,New York Knicks,27,23,.540,6.0,x,1998
+1568,9,Charlotte Hornets,26,24,.520,7.0,,1998
+1569,10,Toronto Raptors,23,27,.460,10.0,,1998
+1570,11,Cleveland Cavaliers,22,28,.440,11.0,,1998
+1571,12,Boston Celtics,19,31,.380,14.0,,1998
+1572,13,Washington Wizards,18,32,.360,15.0,,1998
+1573,14,New Jersey Nets,16,34,.320,17.0,,1998
+1574,15,Chicago Bulls,13,37,.260,20.0,,1998
+1575,,Team,W,L,Pct,GB,,1998
+1576,1,San Antonio Spurs,37,13,.740,-,x,1998
+1577,2,Utah Jazz,37,13,.740,-,x,1998
+1578,3,Houston Rockets,31,19,.620,6.0,x,1998
+1579,4,Minnesota Timberwolves,25,25,.500,12.0,x,1998
+1580,5,Dallas Mavericks,19,31,.380,18.0,,1998
+1581,6,Denver Nuggets,14,36,.280,23.0,,1998
+1582,7,Vancouver Grizzlies,8,42,.160,29.0,,1998
+1583,,Team,W,L,Pct,GB,,1998
+1584,1,Portland Trail Blazers,35,15,.700,-,x,1998
+1585,2,Los Angeles Lakers,31,19,.620,4.0,x,1998
+1586,3,Phoenix Suns,27,23,.540,8.0,x,1998
+1587,4,Sacramento Kings,27,23,.540,8.0,x,1998
+1588,5,Seattle Supersonics,25,25,.500,10.0,,1998
+1589,6,Golden State Warriors,21,29,.420,14.0,,1998
+1590,7,Los Angeles Clippers,9,41,.180,26.0,,1998
+1591,,Team,W,L,Pct,GB,,1998
+1592,1,Miami Heat,33,17,.660,-,x,1998
+1593,2,Orlando Magic,33,17,.660,-,x,1998
+1594,3,Philadelphia 76ers,28,22,.560,5.0,x,1998
+1595,4,New York Knicks,27,23,.540,6.0,x,1998
+1596,5,Boston Celtics,19,31,.380,14.0,,1998
+1597,6,Washington Wizards,18,32,.360,15.0,,1998
+1598,7,New Jersey Nets,16,34,.320,17.0,,1998
+1599,,Team,W,L,Pct,GB,,1998
+1600,1,Indiana Pacers,33,17,.660,-,x,1998
+1601,2,Atlanta Hawks,31,19,.620,2.0,x,1998
+1602,3,Detroit Pistons,29,21,.580,4.0,x,1998
+1603,4,Milwaukee Bucks,28,22,.560,5.0,x,1998
+1604,5,Charlotte Hornets,26,24,.520,7.0,,1998
+1605,6,Toronto Raptors,23,27,.460,10.0,,1998
+1606,7,Cleveland Cavaliers,22,28,.440,11.0,,1998
+1607,8,Chicago Bulls,13,37,.260,20.0,,1998
+1608,,Team,W,L,Pct,GB,,1997
+1609,1,Utah Jazz,62,20,.756,-,x,1997
+1610,2,Seattle Supersonics,61,21,.744,1.0,x,1997
+1611,3,Los Angeles Lakers,61,21,.744,1.0,x,1997
+1612,4,Phoenix Suns,56,26,.683,6.0,x,1997
+1613,5,San Antonio Spurs,56,26,.683,6.0,x,1997
+1614,6,Portland Trail Blazers,46,36,.561,16.0,x,1997
+1615,7,Minnesota Timberwolves,45,37,.549,17.0,x,1997
+1616,8,Houston Rockets,41,41,.500,21.0,x,1997
+1617,9,Sacramento Kings,27,55,.329,35.0,,1997
+1618,10,Dallas Mavericks,20,62,.244,42.0,,1997
+1619,11,Vancouver Grizzlies,19,63,.232,43.0,,1997
+1620,12,Golden State Warriors,19,63,.232,43.0,,1997
+1621,13,Los Angeles Clippers,17,65,.207,45.0,,1997
+1622,14,Denver Nuggets,11,71,.134,51.0,,1997
+1623,,Team,W,L,Pct,GB,,1997
+1624,1,Chicago Bulls,62,20,.756,-,x,1997
+1625,2,Miami Heat,55,27,.671,7.0,x,1997
+1626,3,Indiana Pacers,58,24,.707,4.0,x,1997
+1627,4,Charlotte Hornets,51,31,.622,11.0,x,1997
+1628,5,Atlanta Hawks,50,32,.610,12.0,x,1997
+1629,6,Cleveland Cavaliers,47,35,.573,15.0,x,1997
+1630,7,New York Knicks,43,39,.524,19.0,x,1997
+1631,8,New Jersey Nets,43,39,.524,19.0,x,1997
+1632,9,Washington Wizards,42,40,.512,20.0,,1997
+1633,10,Orlando Magic,41,41,.500,21.0,,1997
+1634,11,Detroit Pistons,37,45,.451,25.0,,1997
+1635,12,Boston Celtics,36,46,.439,26.0,,1997
+1636,13,Milwaukee Bucks,36,46,.439,26.0,,1997
+1637,14,Philadelphia 76ers,31,51,.378,31.0,,1997
+1638,15,Toronto Raptors,16,66,.195,46.0,,1997
+1639,,Team,W,L,Pct,GB,,1997
+1640,1,Utah Jazz,62,20,.756,-,x,1997
+1641,2,San Antonio Spurs,56,26,.683,6.0,x,1997
+1642,3,Minnesota Timberwolves,45,37,.549,17.0,x,1997
+1643,4,Houston Rockets,41,41,.500,21.0,x,1997
+1644,5,Dallas Mavericks,20,62,.244,42.0,,1997
+1645,6,Vancouver Grizzlies,19,63,.232,43.0,,1997
+1646,7,Denver Nuggets,11,71,.134,51.0,,1997
+1647,,Team,W,L,Pct,GB,,1997
+1648,1,Seattle Supersonics,61,21,.744,-,x,1997
+1649,2,Los Angeles Lakers,61,21,.744,-,x,1997
+1650,3,Phoenix Suns,56,26,.683,5.0,x,1997
+1651,4,Portland Trail Blazers,46,36,.561,15.0,x,1997
+1652,5,Sacramento Kings,27,55,.329,34.0,,1997
+1653,6,Golden State Warriors,19,63,.232,42.0,,1997
+1654,7,Los Angeles Clippers,17,65,.207,44.0,,1997
+1655,,Team,W,L,Pct,GB,,1997
+1656,1,Miami Heat,55,27,.671,-,x,1997
+1657,2,New York Knicks,43,39,.524,12.0,x,1997
+1658,3,New Jersey Nets,43,39,.524,12.0,x,1997
+1659,4,Washington Wizards,42,40,.512,13.0,,1997
+1660,5,Orlando Magic,41,41,.500,14.0,,1997
+1661,6,Boston Celtics,36,46,.439,19.0,,1997
+1662,7,Philadelphia 76ers,31,51,.378,24.0,,1997
+1663,,Team,W,L,Pct,GB,,1997
+1664,1,Chicago Bulls,62,20,.756,-,x,1997
+1665,2,Indiana Pacers,58,24,.707,4.0,x,1997
+1666,3,Charlotte Hornets,51,31,.622,11.0,x,1997
+1667,4,Atlanta Hawks,50,32,.610,12.0,x,1997
+1668,5,Cleveland Cavaliers,47,35,.573,15.0,x,1997
+1669,6,Detroit Pistons,37,45,.451,25.0,,1997
+1670,7,Milwaukee Bucks,36,46,.439,26.0,,1997
+1671,8,Toronto Raptors,16,66,.195,46.0,,1997
+1672,,Team,W,L,Pct,GB,,1996
+1673,1,Utah Jazz,64,18,.780,-,x,1996
+1674,2,Seattle Supersonics,57,25,.695,7.0,x,1996
+1675,3,Houston Rockets,57,25,.695,7.0,x,1996
+1676,4,Los Angeles Lakers,56,26,.683,8.0,x,1996
+1677,5,Portland Trail Blazers,49,33,.598,15.0,x,1996
+1678,6,Minnesota Timberwolves,40,42,.488,24.0,x,1996
+1679,7,Phoenix Suns,40,42,.488,24.0,x,1996
+1680,8,Los Angeles Clippers,36,46,.439,28.0,x,1996
+1681,9,Sacramento Kings,34,48,.415,30.0,,1996
+1682,10,Golden State Warriors,30,52,.366,34.0,,1996
+1683,11,Dallas Mavericks,24,58,.293,40.0,,1996
+1684,12,Denver Nuggets,21,61,.256,43.0,,1996
+1685,13,San Antonio Spurs,20,62,.244,44.0,,1996
+1686,14,Vancouver Grizzlies,14,68,.171,50.0,,1996
+1687,,Team,W,L,Pct,GB,,1996
+1688,1,Chicago Bulls,69,13,.841,-,x,1996
+1689,2,Miami Heat,61,21,.744,8.0,x,1996
+1690,3,New York Knicks,57,25,.695,12.0,x,1996
+1691,4,Atlanta Hawks,56,26,.683,13.0,x,1996
+1692,5,Detroit Pistons,54,28,.659,15.0,x,1996
+1693,6,Charlotte Hornets,54,28,.659,15.0,x,1996
+1694,7,Orlando Magic,45,37,.549,24.0,x,1996
+1695,8,Washington Bullets,44,38,.537,25.0,x,1996
+1696,9,Cleveland Cavaliers,42,40,.512,27.0,,1996
+1697,10,Indiana Pacers,39,43,.476,30.0,,1996
+1698,11,Milwaukee Bucks,33,49,.402,36.0,,1996
+1699,12,Toronto Raptors,30,52,.366,39.0,,1996
+1700,13,New Jersey Nets,26,56,.317,43.0,,1996
+1701,14,Philadelphia 76ers,22,60,.268,47.0,,1996
+1702,15,Boston Celtics,15,67,.183,54.0,,1996
+1703,,Team,W,L,Pct,GB,,1996
+1704,1,Utah Jazz,64,18,.780,-,x,1996
+1705,2,Houston Rockets,57,25,.695,7.0,x,1996
+1706,3,Minnesota Timberwolves,40,42,.488,24.0,x,1996
+1707,4,Dallas Mavericks,24,58,.293,40.0,,1996
+1708,5,Denver Nuggets,21,61,.256,43.0,,1996
+1709,6,San Antonio Spurs,20,62,.244,44.0,,1996
+1710,7,Vancouver Grizzlies,14,68,.171,50.0,,1996
+1711,,Team,W,L,Pct,GB,,1996
+1712,1,Seattle Supersonics,57,25,.695,-,x,1996
+1713,2,Los Angeles Lakers,56,26,.683,1.0,x,1996
+1714,3,Portland Trail Blazers,49,33,.598,8.0,x,1996
+1715,4,Phoenix Suns,40,42,.488,17.0,x,1996
+1716,5,Los Angeles Clippers,36,46,.439,21.0,x,1996
+1717,6,Sacramento Kings,34,48,.415,23.0,,1996
+1718,7,Golden State Warriors,30,52,.366,27.0,,1996
+1719,,Team,W,L,Pct,GB,,1996
+1720,1,Miami Heat,61,21,.744,-,x,1996
+1721,2,New York Knicks,57,25,.695,4.0,x,1996
+1722,3,Orlando Magic,45,37,.549,16.0,x,1996
+1723,4,Washington Bullets,44,38,.537,17.0,x,1996
+1724,5,New Jersey Nets,26,56,.317,35.0,,1996
+1725,6,Philadelphia 76ers,22,60,.268,39.0,,1996
+1726,7,Boston Celtics,15,67,.183,46.0,,1996
+1727,,Team,W,L,Pct,GB,,1996
+1728,1,Chicago Bulls,69,13,.841,-,x,1996
+1729,2,Atlanta Hawks,56,26,.683,13.0,x,1996
+1730,3,Detroit Pistons,54,28,.659,15.0,x,1996
+1731,4,Charlotte Hornets,54,28,.659,15.0,x,1996
+1732,5,Cleveland Cavaliers,42,40,.512,27.0,,1996
+1733,6,Indiana Pacers,39,43,.476,30.0,,1996
+1734,7,Milwaukee Bucks,33,49,.402,36.0,,1996
+1735,8,Toronto Raptors,30,52,.366,39.0,,1996
+1736,,Team,W,L,Pct,GB,,1995
+1737,1,Seattle Supersonics,64,18,.780,-,x,1995
+1738,2,San Antonio Spurs,59,23,.720,5.0,x,1995
+1739,3,Utah Jazz,55,27,.671,9.0,x,1995
+1740,4,Los Angeles Lakers,53,29,.646,11.0,x,1995
+1741,5,Houston Rockets,48,34,.585,16.0,x,1995
+1742,6,Portland Trail Blazers,44,38,.537,20.0,x,1995
+1743,7,Phoenix Suns,41,41,.500,23.0,x,1995
+1744,8,Sacramento Kings,39,43,.476,25.0,x,1995
+1745,9,Golden State Warriors,36,46,.439,28.0,,1995
+1746,10,Denver Nuggets,35,47,.427,29.0,,1995
+1747,11,Los Angeles Clippers,29,53,.354,35.0,,1995
+1748,12,Minnesota Timberwolves,26,56,.317,38.0,,1995
+1749,13,Dallas Mavericks,26,56,.317,38.0,,1995
+1750,14,Vancouver Grizzlies,15,67,.183,49.0,,1995
+1751,,Team,W,L,Pct,GB,,1995
+1752,1,Chicago Bulls,72,10,.878,-,x,1995
+1753,2,Orlando Magic,60,22,.732,12.0,x,1995
+1754,3,Indiana Pacers,52,30,.634,20.0,x,1995
+1755,4,Cleveland Cavaliers,47,35,.573,25.0,x,1995
+1756,5,New York Knicks,47,35,.573,25.0,x,1995
+1757,6,Atlanta Hawks,46,36,.561,26.0,x,1995
+1758,7,Detroit Pistons,46,36,.561,26.0,x,1995
+1759,8,Miami Heat,42,40,.512,30.0,x,1995
+1760,9,Charlotte Hornets,41,41,.500,31.0,,1995
+1761,10,Washington Bullets,39,43,.476,33.0,,1995
+1762,11,Boston Celtics,33,49,.402,39.0,,1995
+1763,12,New Jersey Nets,30,52,.366,42.0,,1995
+1764,13,Milwaukee Bucks,25,57,.305,47.0,,1995
+1765,14,Toronto Raptors,21,61,.256,51.0,,1995
+1766,15,Philadelphia 76ers,18,64,.220,54.0,,1995
+1767,,Team,W,L,Pct,GB,,1995
+1768,1,San Antonio Spurs,59,23,.720,-,x,1995
+1769,2,Utah Jazz,55,27,.671,4.0,x,1995
+1770,3,Houston Rockets,48,34,.585,11.0,x,1995
+1771,4,Denver Nuggets,35,47,.427,24.0,,1995
+1772,5,Minnesota Timberwolves,26,56,.317,33.0,,1995
+1773,6,Dallas Mavericks,26,56,.317,33.0,,1995
+1774,7,Vancouver Grizzlies,15,67,.183,44.0,,1995
+1775,,Team,W,L,Pct,GB,,1995
+1776,1,Seattle Supersonics,64,18,.780,-,x,1995
+1777,2,Los Angeles Lakers,53,29,.646,11.0,x,1995
+1778,3,Portland Trail Blazers,44,38,.537,20.0,x,1995
+1779,4,Phoenix Suns,41,41,.500,23.0,x,1995
+1780,5,Sacramento Kings,39,43,.476,25.0,x,1995
+1781,6,Golden State Warriors,36,46,.439,28.0,,1995
+1782,7,Los Angeles Clippers,29,53,.354,35.0,,1995
+1783,,Team,W,L,Pct,GB,,1995
+1784,1,Orlando Magic,60,22,.732,-,x,1995
+1785,2,New York Knicks,47,35,.573,13.0,x,1995
+1786,3,Miami Heat,42,40,.512,18.0,x,1995
+1787,4,Washington Bullets,39,43,.476,21.0,,1995
+1788,5,Boston Celtics,33,49,.402,27.0,,1995
+1789,6,New Jersey Nets,30,52,.366,30.0,,1995
+1790,7,Philadelphia 76ers,18,64,.220,42.0,,1995
+1791,,Team,W,L,Pct,GB,,1995
+1792,1,Chicago Bulls,72,10,.878,-,x,1995
+1793,2,Indiana Pacers,52,30,.634,20.0,x,1995
+1794,3,Cleveland Cavaliers,47,35,.573,25.0,x,1995
+1795,4,Atlanta Hawks,46,36,.561,26.0,x,1995
+1796,5,Detroit Pistons,46,36,.561,26.0,x,1995
+1797,6,Charlotte Hornets,41,41,.500,31.0,,1995
+1798,7,Milwaukee Bucks,25,57,.305,47.0,,1995
+1799,8,Toronto Raptors,21,61,.256,51.0,,1995
+1800,,Team,W,L,Pct,GB,,1994
+1801,1,San Antonio Spurs,62,20,.756,-,x,1994
+1802,2,Phoenix Suns,59,23,.720,3.0,x,1994
+1803,3,Utah Jazz,60,22,.732,2.0,x,1994
+1804,4,Seattle Supersonics,57,25,.695,5.0,x,1994
+1805,5,Los Angeles Lakers,48,34,.585,14.0,x,1994
+1806,6,Houston Rockets,47,35,.573,15.0,x,1994
+1807,7,Portland Trail Blazers,44,38,.537,18.0,x,1994
+1808,8,Denver Nuggets,41,41,.500,21.0,x,1994
+1809,9,Sacramento Kings,39,43,.476,23.0,,1994
+1810,10,Dallas Mavericks,36,46,.439,26.0,,1994
+1811,11,Golden State Warriors,26,56,.317,36.0,,1994
+1812,12,Minnesota Timberwolves,21,61,.256,41.0,,1994
+1813,13,Los Angeles Clippers,17,65,.207,45.0,,1994
+1814,,Team,W,L,Pct,GB,,1994
+1815,1,Orlando Magic,57,25,.695,-,x,1994
+1816,2,Indiana Pacers,52,30,.634,5.0,x,1994
+1817,3,New York Knicks,55,27,.671,2.0,x,1994
+1818,4,Charlotte Hornets,50,32,.610,7.0,x,1994
+1819,5,Chicago Bulls,47,35,.573,10.0,x,1994
+1820,6,Cleveland Cavaliers,43,39,.524,14.0,x,1994
+1821,7,Atlanta Hawks,42,40,.512,15.0,x,1994
+1822,8,Boston Celtics,35,47,.427,22.0,x,1994
+1823,9,Milwaukee Bucks,34,48,.415,23.0,,1994
+1824,10,Miami Heat,32,50,.390,25.0,,1994
+1825,11,New Jersey Nets,30,52,.366,27.0,,1994
+1826,12,Detroit Pistons,28,54,.341,29.0,,1994
+1827,13,Philadelphia 76ers,24,58,.293,33.0,,1994
+1828,14,Washington Bullets,21,61,.256,36.0,,1994
+1829,,Team,W,L,Pct,GB,,1994
+1830,1,San Antonio Spurs,62,20,.756,-,x,1994
+1831,2,Utah Jazz,60,22,.732,2.0,x,1994
+1832,3,Houston Rockets,47,35,.573,15.0,x,1994
+1833,4,Denver Nuggets,41,41,.500,21.0,x,1994
+1834,5,Dallas Mavericks,36,46,.439,26.0,,1994
+1835,6,Minnesota Timberwolves,21,61,.256,41.0,,1994
+1836,,Team,W,L,Pct,GB,,1994
+1837,1,Phoenix Suns,59,23,.720,-,x,1994
+1838,2,Seattle Supersonics,57,25,.695,2.0,x,1994
+1839,3,Los Angeles Lakers,48,34,.585,11.0,x,1994
+1840,4,Portland Trail Blazers,44,38,.537,15.0,x,1994
+1841,5,Sacramento Kings,39,43,.476,20.0,,1994
+1842,6,Golden State Warriors,26,56,.317,33.0,,1994
+1843,7,Los Angeles Clippers,17,65,.207,42.0,,1994
+1844,,Team,W,L,Pct,GB,,1994
+1845,1,Orlando Magic,57,25,.695,-,x,1994
+1846,2,New York Knicks,55,27,.671,2.0,x,1994
+1847,3,Boston Celtics,35,47,.427,22.0,x,1994
+1848,4,Miami Heat,32,50,.390,25.0,,1994
+1849,5,New Jersey Nets,30,52,.366,27.0,,1994
+1850,6,Philadelphia 76ers,24,58,.293,33.0,,1994
+1851,7,Washington Bullets,21,61,.256,36.0,,1994
+1852,,Team,W,L,Pct,GB,,1994
+1853,1,Indiana Pacers,52,30,.634,-,x,1994
+1854,2,Charlotte Hornets,50,32,.610,2.0,x,1994
+1855,3,Chicago Bulls,47,35,.573,5.0,x,1994
+1856,4,Cleveland Cavaliers,43,39,.524,9.0,x,1994
+1857,5,Atlanta Hawks,42,40,.512,10.0,x,1994
+1858,6,Milwaukee Bucks,34,48,.415,18.0,,1994
+1859,7,Detroit Pistons,28,54,.341,24.0,,1994
+1860,,Team,W,L,Pct,GB,,1993
+1861,1,Seattle Supersonics,63,19,.768,-,x,1993
+1862,2,Houston Rockets,58,24,.707,5.0,x,1993
+1863,3,Phoenix Suns,56,26,.683,7.0,x,1993
+1864,4,San Antonio Spurs,55,27,.671,8.0,x,1993
+1865,5,Utah Jazz,53,29,.646,10.0,x,1993
+1866,6,Golden State Warriors,50,32,.610,13.0,x,1993
+1867,7,Portland Trail Blazers,47,35,.573,16.0,x,1993
+1868,8,Denver Nuggets,42,40,.512,21.0,x,1993
+1869,9,Los Angeles Lakers,33,49,.402,30.0,,1993
+1870,10,Sacramento Kings,28,54,.341,35.0,,1993
+1871,11,Los Angeles Clippers,27,55,.329,36.0,,1993
+1872,12,Minnesota Timberwolves,20,62,.244,43.0,,1993
+1873,13,Dallas Mavericks,13,69,.159,50.0,,1993
+1874,,Team,W,L,Pct,GB,,1993
+1875,1,Atlanta Hawks,57,25,.695,-,x,1993
+1876,2,New York Knicks,57,25,.695,-,x,1993
+1877,3,Chicago Bulls,55,27,.671,2.0,x,1993
+1878,4,Orlando Magic,50,32,.610,7.0,x,1993
+1879,5,Indiana Pacers,47,35,.573,10.0,x,1993
+1880,6,Cleveland Cavaliers,47,35,.573,10.0,x,1993
+1881,7,New Jersey Nets,45,37,.549,12.0,x,1993
+1882,8,Miami Heat,42,40,.512,15.0,x,1993
+1883,9,Charlotte Hornets,41,41,.500,16.0,,1993
+1884,10,Boston Celtics,32,50,.390,25.0,,1993
+1885,11,Philadelphia 76ers,25,57,.305,32.0,,1993
+1886,12,Washington Bullets,24,58,.293,33.0,,1993
+1887,13,Milwaukee Bucks,20,62,.244,37.0,,1993
+1888,14,Detroit Pistons,20,62,.244,37.0,,1993
+1889,,Team,W,L,Pct,GB,,1993
+1890,1,Houston Rockets,58,24,.707,-,x,1993
+1891,2,San Antonio Spurs,55,27,.671,3.0,x,1993
+1892,3,Utah Jazz,53,29,.646,5.0,x,1993
+1893,4,Denver Nuggets,42,40,.512,16.0,x,1993
+1894,5,Minnesota Timberwolves,20,62,.244,38.0,,1993
+1895,6,Dallas Mavericks,13,69,.159,45.0,,1993
+1896,,Team,W,L,Pct,GB,,1993
+1897,1,Seattle Supersonics,63,19,.768,-,x,1993
+1898,2,Phoenix Suns,56,26,.683,7.0,x,1993
+1899,3,Golden State Warriors,50,32,.610,13.0,x,1993
+1900,4,Portland Trail Blazers,47,35,.573,16.0,x,1993
+1901,5,Los Angeles Lakers,33,49,.402,30.0,,1993
+1902,6,Sacramento Kings,28,54,.341,35.0,,1993
+1903,7,Los Angeles Clippers,27,55,.329,36.0,,1993
+1904,,Team,W,L,Pct,GB,,1993
+1905,1,New York Knicks,57,25,.695,-,x,1993
+1906,2,Orlando Magic,50,32,.610,7.0,x,1993
+1907,3,New Jersey Nets,45,37,.549,12.0,x,1993
+1908,4,Miami Heat,42,40,.512,15.0,x,1993
+1909,5,Boston Celtics,32,50,.390,25.0,,1993
+1910,6,Philadelphia 76ers,25,57,.305,32.0,,1993
+1911,7,Washington Bullets,24,58,.293,33.0,,1993
+1912,,Team,W,L,Pct,GB,,1993
+1913,1,Atlanta Hawks,57,25,.695,-,x,1993
+1914,2,Chicago Bulls,55,27,.671,2.0,x,1993
+1915,3,Indiana Pacers,47,35,.573,10.0,x,1993
+1916,4,Cleveland Cavaliers,47,35,.573,10.0,x,1993
+1917,5,Charlotte Hornets,41,41,.500,16.0,,1993
+1918,6,Milwaukee Bucks,20,62,.244,37.0,,1993
+1919,7,Detroit Pistons,20,62,.244,37.0,,1993
+1920,,Team,W,L,Pct,GB,,1992
+1921,1,Phoenix Suns,62,20,.756,-,x,1992
+1922,2,Houston Rockets,55,27,.671,7.0,x,1992
+1923,3,Seattle Supersonics,55,27,.671,7.0,x,1992
+1924,4,Portland Trail Blazers,51,31,.622,11.0,x,1992
+1925,5,San Antonio Spurs,49,33,.598,13.0,x,1992
+1926,6,Utah Jazz,47,35,.573,15.0,x,1992
+1927,7,Los Angeles Clippers,41,41,.500,21.0,x,1992
+1928,8,Los Angeles Lakers,39,43,.476,23.0,x,1992
+1929,9,Denver Nuggets,36,46,.439,26.0,,1992
+1930,10,Golden State Warriors,34,48,.415,28.0,,1992
+1931,11,Sacramento Kings,25,57,.305,37.0,,1992
+1932,12,Minnesota Timberwolves,19,63,.232,43.0,,1992
+1933,13,Dallas Mavericks,11,71,.134,51.0,,1992
+1934,,Team,W,L,Pct,GB,,1992
+1935,1,New York Knicks,60,22,.732,-,x,1992
+1936,2,Chicago Bulls,57,25,.695,3.0,x,1992
+1937,3,Cleveland Cavaliers,54,28,.659,6.0,x,1992
+1938,4,Boston Celtics,48,34,.585,12.0,x,1992
+1939,5,Charlotte Hornets,44,38,.537,16.0,x,1992
+1940,6,New Jersey Nets,43,39,.524,17.0,x,1992
+1941,7,Atlanta Hawks,43,39,.524,17.0,x,1992
+1942,8,Indiana Pacers,41,41,.500,19.0,x,1992
+1943,9,Orlando Magic,41,41,.500,19.0,,1992
+1944,10,Detroit Pistons,40,42,.488,20.0,,1992
+1945,11,Miami Heat,36,46,.439,24.0,,1992
+1946,12,Milwaukee Bucks,28,54,.341,32.0,,1992
+1947,13,Philadelphia 76ers,26,56,.317,34.0,,1992
+1948,14,Washington Bullets,22,60,.268,38.0,,1992
+1949,,Team,W,L,Pct,GB,,1992
+1950,1,Houston Rockets,55,27,.671,-,x,1992
+1951,2,San Antonio Spurs,49,33,.598,6.0,x,1992
+1952,3,Utah Jazz,47,35,.573,8.0,x,1992
+1953,4,Denver Nuggets,36,46,.439,19.0,,1992
+1954,5,Minnesota Timberwolves,19,63,.232,36.0,,1992
+1955,6,Dallas Mavericks,11,71,.134,44.0,,1992
+1956,,Team,W,L,Pct,GB,,1992
+1957,1,Phoenix Suns,62,20,.756,-,x,1992
+1958,2,Seattle Supersonics,55,27,.671,7.0,x,1992
+1959,3,Portland Trail Blazers,51,31,.622,11.0,x,1992
+1960,4,Los Angeles Clippers,41,41,.500,21.0,x,1992
+1961,5,Los Angeles Lakers,39,43,.476,23.0,x,1992
+1962,6,Golden State Warriors,34,48,.415,28.0,,1992
+1963,7,Sacramento Kings,25,57,.305,37.0,,1992
+1964,,Team,W,L,Pct,GB,,1992
+1965,1,New York Knicks,60,22,.732,-,x,1992
+1966,2,Boston Celtics,48,34,.585,12.0,x,1992
+1967,3,New Jersey Nets,43,39,.524,17.0,x,1992
+1968,4,Orlando Magic,41,41,.500,19.0,,1992
+1969,5,Miami Heat,36,46,.439,24.0,,1992
+1970,6,Philadelphia 76ers,26,56,.317,34.0,,1992
+1971,7,Washington Bullets,22,60,.268,38.0,,1992
+1972,,Team,W,L,Pct,GB,,1992
+1973,1,Chicago Bulls,57,25,.695,-,x,1992
+1974,2,Cleveland Cavaliers,54,28,.659,3.0,x,1992
+1975,3,Charlotte Hornets,44,38,.537,13.0,x,1992
+1976,4,Atlanta Hawks,43,39,.524,14.0,x,1992
+1977,5,Indiana Pacers,41,41,.500,16.0,x,1992
+1978,6,Detroit Pistons,40,42,.488,17.0,,1992
+1979,7,Milwaukee Bucks,28,54,.341,29.0,,1992
+1980,,Team,W,L,Pct,GB,,1991
+1981,1,Portland Trail Blazers,57,25,.695,-,x,1991
+1982,2,Utah Jazz,55,27,.671,2.0,x,1991
+1983,3,Golden State Warriors,55,27,.671,2.0,x,1991
+1984,4,Phoenix Suns,53,29,.646,4.0,x,1991
+1985,5,San Antonio Spurs,47,35,.573,10.0,x,1991
+1986,6,Seattle Supersonics,47,35,.573,10.0,x,1991
+1987,7,Los Angeles Clippers,45,37,.549,12.0,x,1991
+1988,8,Los Angeles Lakers,43,39,.524,14.0,x,1991
+1989,9,Houston Rockets,42,40,.512,15.0,,1991
+1990,10,Sacramento Kings,29,53,.354,28.0,,1991
+1991,11,Denver Nuggets,24,58,.293,33.0,,1991
+1992,12,Dallas Mavericks,22,60,.268,35.0,,1991
+1993,13,Minnesota Timberwolves,15,67,.183,42.0,,1991
+1994,,Team,W,L,Pct,GB,,1991
+1995,1,Chicago Bulls,67,15,.817,-,x,1991
+1996,2,Boston Celtics,51,31,.622,16.0,x,1991
+1997,3,Cleveland Cavaliers,57,25,.695,10.0,x,1991
+1998,4,New York Knicks,51,31,.622,16.0,x,1991
+1999,5,Detroit Pistons,48,34,.585,19.0,x,1991
+2000,6,New Jersey Nets,40,42,.488,27.0,x,1991
+2001,7,Indiana Pacers,40,42,.488,27.0,x,1991
+2002,8,Miami Heat,38,44,.463,29.0,x,1991
+2003,9,Atlanta Hawks,38,44,.463,29.0,,1991
+2004,10,Philadelphia 76ers,35,47,.427,32.0,,1991
+2005,11,Charlotte Hornets,31,51,.378,36.0,,1991
+2006,12,Milwaukee Bucks,31,51,.378,36.0,,1991
+2007,13,Washington Bullets,25,57,.305,42.0,,1991
+2008,14,Orlando Magic,21,61,.256,46.0,,1991
+2009,,Team,W,L,Pct,GB,,1991
+2010,1,Utah Jazz,55,27,.671,-,x,1991
+2011,2,San Antonio Spurs,47,35,.573,8.0,x,1991
+2012,3,Houston Rockets,42,40,.512,13.0,,1991
+2013,4,Denver Nuggets,24,58,.293,31.0,,1991
+2014,5,Dallas Mavericks,22,60,.268,33.0,,1991
+2015,6,Minnesota Timberwolves,15,67,.183,40.0,,1991
+2016,,Team,W,L,Pct,GB,,1991
+2017,1,Portland Trail Blazers,57,25,.695,-,x,1991
+2018,2,Golden State Warriors,55,27,.671,2.0,x,1991
+2019,3,Phoenix Suns,53,29,.646,4.0,x,1991
+2020,4,Seattle Supersonics,47,35,.573,10.0,x,1991
+2021,5,Los Angeles Clippers,45,37,.549,12.0,x,1991
+2022,6,Los Angeles Lakers,43,39,.524,14.0,x,1991
+2023,7,Sacramento Kings,29,53,.354,28.0,,1991
+2024,,Team,W,L,Pct,GB,,1991
+2025,1,Boston Celtics,51,31,.622,-,x,1991
+2026,2,New York Knicks,51,31,.622,-,x,1991
+2027,3,New Jersey Nets,40,42,.488,11.0,x,1991
+2028,4,Miami Heat,38,44,.463,13.0,x,1991
+2029,5,Philadelphia 76ers,35,47,.427,16.0,,1991
+2030,6,Washington Bullets,25,57,.305,26.0,,1991
+2031,7,Orlando Magic,21,61,.256,30.0,,1991
+2032,,Team,W,L,Pct,GB,,1991
+2033,1,Chicago Bulls,67,15,.817,-,x,1991
+2034,2,Cleveland Cavaliers,57,25,.695,10.0,x,1991
+2035,3,Detroit Pistons,48,34,.585,19.0,x,1991
+2036,4,Indiana Pacers,40,42,.488,27.0,x,1991
+2037,5,Atlanta Hawks,38,44,.463,29.0,,1991
+2038,6,Charlotte Hornets,31,51,.378,36.0,,1991
+2039,7,Milwaukee Bucks,31,51,.378,36.0,,1991
+2040,,Team,W,L,Pct,GB,,1990
+2041,1,Portland Trail Blazers,63,19,.768,-,x,1990
+2042,2,San Antonio Spurs,55,27,.671,8.0,x,1990
+2043,3,Los Angeles Lakers,58,24,.707,5.0,x,1990
+2044,4,Phoenix Suns,55,27,.671,8.0,x,1990
+2045,5,Utah Jazz,54,28,.659,9.0,x,1990
+2046,6,Houston Rockets,52,30,.634,11.0,x,1990
+2047,7,Golden State Warriors,44,38,.537,19.0,x,1990
+2048,8,Seattle Supersonics,41,41,.500,22.0,x,1990
+2049,9,Orlando Magic,31,51,.378,32.0,,1990
+2050,10,Los Angeles Clippers,31,51,.378,32.0,,1990
+2051,11,Minnesota Timberwolves,29,53,.354,34.0,,1990
+2052,12,Dallas Mavericks,28,54,.341,35.0,,1990
+2053,13,Sacramento Kings,25,57,.305,38.0,,1990
+2054,14,Denver Nuggets,20,62,.244,43.0,,1990
+2055,,Team,W,L,Pct,GB,,1990
+2056,1,Chicago Bulls,61,21,.744,-,x,1990
+2057,2,Boston Celtics,56,26,.683,5.0,x,1990
+2058,3,Detroit Pistons,50,32,.610,11.0,x,1990
+2059,4,Milwaukee Bucks,48,34,.585,13.0,x,1990
+2060,5,Philadelphia 76ers,44,38,.537,17.0,x,1990
+2061,6,Atlanta Hawks,43,39,.524,18.0,x,1990
+2062,7,Indiana Pacers,41,41,.500,20.0,x,1990
+2063,8,New York Knicks,39,43,.476,22.0,x,1990
+2064,9,Cleveland Cavaliers,33,49,.402,28.0,,1990
+2065,10,Washington Bullets,30,52,.366,31.0,,1990
+2066,11,New Jersey Nets,26,56,.317,35.0,,1990
+2067,12,Charlotte Hornets,26,56,.317,35.0,,1990
+2068,13,Miami Heat,24,58,.293,37.0,,1990
+2069,,Team,W,L,Pct,GB,,1990
+2070,1,San Antonio Spurs,55,27,.671,-,x,1990
+2071,2,Utah Jazz,54,28,.659,1.0,x,1990
+2072,3,Houston Rockets,52,30,.634,3.0,x,1990
+2073,4,Orlando Magic,31,51,.378,24.0,,1990
+2074,5,Minnesota Timberwolves,29,53,.354,26.0,,1990
+2075,6,Dallas Mavericks,28,54,.341,27.0,,1990
+2076,7,Denver Nuggets,20,62,.244,35.0,,1990
+2077,,Team,W,L,Pct,GB,,1990
+2078,1,Portland Trail Blazers,63,19,.768,-,x,1990
+2079,2,Los Angeles Lakers,58,24,.707,5.0,x,1990
+2080,3,Phoenix Suns,55,27,.671,8.0,x,1990
+2081,4,Golden State Warriors,44,38,.537,19.0,x,1990
+2082,5,Seattle Supersonics,41,41,.500,22.0,x,1990
+2083,6,Los Angeles Clippers,31,51,.378,32.0,,1990
+2084,7,Sacramento Kings,25,57,.305,38.0,,1990
+2085,,Team,W,L,Pct,GB,,1990
+2086,1,Boston Celtics,56,26,.683,-,x,1990
+2087,2,Philadelphia 76ers,44,38,.537,12.0,x,1990
+2088,3,New York Knicks,39,43,.476,17.0,x,1990
+2089,4,Washington Bullets,30,52,.366,26.0,,1990
+2090,5,New Jersey Nets,26,56,.317,30.0,,1990
+2091,6,Miami Heat,24,58,.293,32.0,,1990
+2092,,Team,W,L,Pct,GB,,1990
+2093,1,Chicago Bulls,61,21,.744,-,x,1990
+2094,2,Detroit Pistons,50,32,.610,11.0,x,1990
+2095,3,Milwaukee Bucks,48,34,.585,13.0,x,1990
+2096,4,Atlanta Hawks,43,39,.524,18.0,x,1990
+2097,5,Indiana Pacers,41,41,.500,20.0,x,1990
+2098,6,Cleveland Cavaliers,33,49,.402,28.0,,1990
+2099,7,Charlotte Hornets,26,56,.317,35.0,,1990
+2100,,Team,W,L,Pct,GB,,1989
+2101,1,Los Angeles Lakers,63,19,.768,-,x,1989
+2102,2,San Antonio Spurs,56,26,.683,7.0,x,1989
+2103,3,Portland Trail Blazers,59,23,.720,4.0,x,1989
+2104,4,Utah Jazz,55,27,.671,8.0,x,1989
+2105,5,Phoenix Suns,54,28,.659,9.0,x,1989
+2106,6,Dallas Mavericks,47,35,.573,16.0,x,1989
+2107,7,Denver Nuggets,43,39,.524,20.0,x,1989
+2108,8,Houston Rockets,41,41,.500,22.0,x,1989
+2109,9,Seattle Supersonics,41,41,.500,22.0,,1989
+2110,10,Golden State Warriors,37,45,.451,26.0,,1989
+2111,11,Los Angeles Clippers,30,52,.366,33.0,,1989
+2112,12,Sacramento Kings,23,59,.280,40.0,,1989
+2113,13,Minnesota Timberwolves,22,60,.268,41.0,,1989
+2114,14,Charlotte Hornets,19,63,.232,44.0,,1989
+2115,,Team,W,L,Pct,GB,,1989
+2116,1,Detroit Pistons,59,23,.720,-,x,1989
+2117,2,Philadelphia 76ers,53,29,.646,6.0,x,1989
+2118,3,Chicago Bulls,55,27,.671,4.0,x,1989
+2119,4,Boston Celtics,52,30,.634,7.0,x,1989
+2120,5,New York Knicks,45,37,.549,14.0,x,1989
+2121,6,Milwaukee Bucks,44,38,.537,15.0,x,1989
+2122,7,Cleveland Cavaliers,42,40,.512,17.0,x,1989
+2123,8,Indiana Pacers,42,40,.512,17.0,x,1989
+2124,9,Atlanta Hawks,41,41,.500,18.0,,1989
+2125,10,Washington Bullets,31,51,.378,28.0,,1989
+2126,11,Miami Heat,18,64,.220,41.0,,1989
+2127,12,Orlando Magic,18,64,.220,41.0,,1989
+2128,13,New Jersey Nets,17,65,.207,42.0,,1989
+2129,,Team,W,L,Pct,GB,,1989
+2130,1,San Antonio Spurs,56,26,.683,-,x,1989
+2131,2,Utah Jazz,55,27,.671,1.0,x,1989
+2132,3,Dallas Mavericks,47,35,.573,9.0,x,1989
+2133,4,Denver Nuggets,43,39,.524,13.0,x,1989
+2134,5,Houston Rockets,41,41,.500,15.0,x,1989
+2135,6,Minnesota Timberwolves,22,60,.268,34.0,,1989
+2136,7,Charlotte Hornets,19,63,.232,37.0,,1989
+2137,,Team,W,L,Pct,GB,,1989
+2138,1,Los Angeles Lakers,63,19,.768,-,x,1989
+2139,2,Portland Trail Blazers,59,23,.720,4.0,x,1989
+2140,3,Phoenix Suns,54,28,.659,9.0,x,1989
+2141,4,Seattle Supersonics,41,41,.500,22.0,,1989
+2142,5,Golden State Warriors,37,45,.451,26.0,,1989
+2143,6,Los Angeles Clippers,30,52,.366,33.0,,1989
+2144,7,Sacramento Kings,23,59,.280,40.0,,1989
+2145,,Team,W,L,Pct,GB,,1989
+2146,1,Philadelphia 76ers,53,29,.646,-,x,1989
+2147,2,Boston Celtics,52,30,.634,1.0,x,1989
+2148,3,New York Knicks,45,37,.549,8.0,x,1989
+2149,4,Washington Bullets,31,51,.378,22.0,,1989
+2150,5,Miami Heat,18,64,.220,35.0,,1989
+2151,6,New Jersey Nets,17,65,.207,36.0,,1989
+2152,,Team,W,L,Pct,GB,,1989
+2153,1,Detroit Pistons,59,23,.720,-,x,1989
+2154,2,Chicago Bulls,55,27,.671,4.0,x,1989
+2155,3,Milwaukee Bucks,44,38,.537,15.0,x,1989
+2156,4,Cleveland Cavaliers,42,40,.512,17.0,x,1989
+2157,5,Indiana Pacers,42,40,.512,17.0,x,1989
+2158,6,Atlanta Hawks,41,41,.500,18.0,,1989
+2159,7,Orlando Magic,18,64,.220,41.0,,1989
+2160,,Team,W,L,Pct,GB,,1988
+2161,1,Los Angeles Lakers,57,25,.695,-,x,1988
+2162,2,Utah Jazz,51,31,.622,6.0,x,1988
+2163,3,Phoenix Suns,55,27,.671,2.0,x,1988
+2164,4,Seattle Supersonics,47,35,.573,10.0,x,1988
+2165,5,Houston Rockets,45,37,.549,12.0,x,1988
+2166,6,Denver Nuggets,44,38,.537,13.0,x,1988
+2167,7,Golden State Warriors,43,39,.524,14.0,x,1988
+2168,8,Portland Trail Blazers,39,43,.476,18.0,x,1988
+2169,9,Dallas Mavericks,38,44,.463,19.0,,1988
+2170,10,Sacramento Kings,27,55,.329,30.0,,1988
+2171,11,San Antonio Spurs,21,61,.256,36.0,,1988
+2172,12,Los Angeles Clippers,21,61,.256,36.0,,1988
+2173,13,Miami Heat,15,67,.183,42.0,,1988
+2174,,Team,W,L,Pct,GB,,1988
+2175,1,Detroit Pistons,63,19,.768,-,x,1988
+2176,2,New York Knicks,52,30,.634,11.0,x,1988
+2177,3,Cleveland Cavaliers,57,25,.695,6.0,x,1988
+2178,4,Atlanta Hawks,52,30,.634,11.0,x,1988
+2179,5,Milwaukee Bucks,49,33,.598,14.0,x,1988
+2180,6,Chicago Bulls,47,35,.573,16.0,x,1988
+2181,7,Philadelphia 76ers,46,36,.561,17.0,x,1988
+2182,8,Boston Celtics,42,40,.512,21.0,x,1988
+2183,9,Washington Bullets,40,42,.488,23.0,,1988
+2184,10,Indiana Pacers,28,54,.341,35.0,,1988
+2185,11,New Jersey Nets,26,56,.317,37.0,,1988
+2186,12,Charlotte Hornets,20,62,.244,43.0,,1988
+2187,,Team,W,L,Pct,GB,,1988
+2188,1,Utah Jazz,51,31,.622,-,x,1988
+2189,2,Houston Rockets,45,37,.549,6.0,x,1988
+2190,3,Denver Nuggets,44,38,.537,7.0,x,1988
+2191,4,Dallas Mavericks,38,44,.463,13.0,,1988
+2192,5,San Antonio Spurs,21,61,.256,30.0,,1988
+2193,6,Miami Heat,15,67,.183,36.0,,1988
+2194,,Team,W,L,Pct,GB,,1988
+2195,1,Los Angeles Lakers,57,25,.695,-,x,1988
+2196,2,Phoenix Suns,55,27,.671,2.0,x,1988
+2197,3,Seattle Supersonics,47,35,.573,10.0,x,1988
+2198,4,Golden State Warriors,43,39,.524,14.0,x,1988
+2199,5,Portland Trail Blazers,39,43,.476,18.0,x,1988
+2200,6,Sacramento Kings,27,55,.329,30.0,,1988
+2201,7,Los Angeles Clippers,21,61,.256,36.0,,1988
+2202,,Team,W,L,Pct,GB,,1988
+2203,1,New York Knicks,52,30,.634,-,x,1988
+2204,2,Philadelphia 76ers,46,36,.561,6.0,x,1988
+2205,3,Boston Celtics,42,40,.512,10.0,x,1988
+2206,4,Washington Bullets,40,42,.488,12.0,,1988
+2207,5,New Jersey Nets,26,56,.317,26.0,,1988
+2208,6,Charlotte Hornets,20,62,.244,32.0,,1988
+2209,,Team,W,L,Pct,GB,,1988
+2210,1,Detroit Pistons,63,19,.768,-,x,1988
+2211,2,Cleveland Cavaliers,57,25,.695,6.0,x,1988
+2212,3,Atlanta Hawks,52,30,.634,11.0,x,1988
+2213,4,Milwaukee Bucks,49,33,.598,14.0,x,1988
+2214,5,Chicago Bulls,47,35,.573,16.0,x,1988
+2215,6,Indiana Pacers,28,54,.341,35.0,,1988
+2216,,Team,W,L,Pct,GB,,1987
+2217,1,Los Angeles Lakers,62,20,.756,-,x,1987
+2218,2,Denver Nuggets,54,28,.659,8.0,x,1987
+2219,3,Dallas Mavericks,53,29,.646,9.0,x,1987
+2220,4,Portland Trail Blazers,53,29,.646,9.0,x,1987
+2221,5,Utah Jazz,47,35,.573,15.0,x,1987
+2222,6,Houston Rockets,46,36,.561,16.0,x,1987
+2223,7,Seattle Supersonics,44,38,.537,18.0,x,1987
+2224,8,San Antonio Spurs,31,51,.378,31.0,x,1987
+2225,9,Phoenix Suns,28,54,.341,34.0,,1987
+2226,10,Sacramento Kings,24,58,.293,38.0,,1987
+2227,11,Golden State Warriors,20,62,.244,42.0,,1987
+2228,12,Los Angeles Clippers,17,65,.207,45.0,,1987
+2229,,Team,W,L,Pct,GB,,1987
+2230,1,Boston Celtics,57,25,.695,-,x,1987
+2231,2,Detroit Pistons,54,28,.659,3.0,x,1987
+2232,3,Chicago Bulls,50,32,.610,7.0,x,1987
+2233,4,Atlanta Hawks,50,32,.610,7.0,x,1987
+2234,5,Milwaukee Bucks,42,40,.512,15.0,x,1987
+2235,6,Cleveland Cavaliers,42,40,.512,15.0,x,1987
+2236,7,Washington Bullets,38,44,.463,19.0,x,1987
+2237,8,New York Knicks,38,44,.463,19.0,x,1987
+2238,9,Indiana Pacers,38,44,.463,19.0,,1987
+2239,10,Philadelphia 76ers,36,46,.439,21.0,,1987
+2240,11,New Jersey Nets,19,63,.232,38.0,,1987
+2241,,Team,W,L,Pct,GB,,1987
+2242,1,Denver Nuggets,54,28,.659,-,x,1987
+2243,2,Dallas Mavericks,53,29,.646,1.0,x,1987
+2244,3,Utah Jazz,47,35,.573,7.0,x,1987
+2245,4,Houston Rockets,46,36,.561,8.0,x,1987
+2246,5,San Antonio Spurs,31,51,.378,23.0,x,1987
+2247,6,Sacramento Kings,24,58,.293,30.0,,1987
+2248,,Team,W,L,Pct,GB,,1987
+2249,1,Los Angeles Lakers,62,20,.756,-,x,1987
+2250,2,Portland Trail Blazers,53,29,.646,9.0,x,1987
+2251,3,Seattle Supersonics,44,38,.537,18.0,x,1987
+2252,4,Phoenix Suns,28,54,.341,34.0,,1987
+2253,5,Golden State Warriors,20,62,.244,42.0,,1987
+2254,6,Los Angeles Clippers,17,65,.207,45.0,,1987
+2255,,Team,W,L,Pct,GB,,1987
+2256,1,Boston Celtics,57,25,.695,-,x,1987
+2257,2,Washington Bullets,38,44,.463,19.0,x,1987
+2258,3,New York Knicks,38,44,.463,19.0,x,1987
+2259,4,Philadelphia 76ers,36,46,.439,21.0,,1987
+2260,5,New Jersey Nets,19,63,.232,38.0,,1987
+2261,,Team,W,L,Pct,GB,,1987
+2262,1,Detroit Pistons,54,28,.659,-,x,1987
+2263,2,Chicago Bulls,50,32,.610,4.0,x,1987
+2264,3,Atlanta Hawks,50,32,.610,4.0,x,1987
+2265,4,Milwaukee Bucks,42,40,.512,12.0,x,1987
+2266,5,Cleveland Cavaliers,42,40,.512,12.0,x,1987
+2267,6,Indiana Pacers,38,44,.463,16.0,,1987
+2268,,Team,W,L,Pct,GB,,1986
+2269,1,Los Angeles Lakers,65,17,.793,-,x,1986
+2270,2,Dallas Mavericks,55,27,.671,10.0,x,1986
+2271,3,Portland Trail Blazers,49,33,.598,16.0,x,1986
+2272,4,Utah Jazz,44,38,.537,21.0,x,1986
+2273,5,Golden State Warriors,42,40,.512,23.0,x,1986
+2274,6,Houston Rockets,42,40,.512,23.0,x,1986
+2275,7,Seattle Supersonics,39,43,.476,26.0,x,1986
+2276,8,Denver Nuggets,37,45,.451,28.0,x,1986
+2277,9,Phoenix Suns,36,46,.439,29.0,,1986
+2278,10,Sacramento Kings,29,53,.354,36.0,,1986
+2279,11,San Antonio Spurs,28,54,.341,37.0,,1986
+2280,12,Los Angeles Clippers,12,70,.146,53.0,,1986
+2281,,Team,W,L,Pct,GB,,1986
+2282,1,Boston Celtics,59,23,.720,-,x,1986
+2283,2,Atlanta Hawks,57,25,.695,2.0,x,1986
+2284,3,Detroit Pistons,52,30,.634,7.0,x,1986
+2285,4,Milwaukee Bucks,50,32,.610,9.0,x,1986
+2286,5,Philadelphia 76ers,45,37,.549,14.0,x,1986
+2287,6,Washington Bullets,42,40,.512,17.0,x,1986
+2288,7,Indiana Pacers,41,41,.500,18.0,x,1986
+2289,8,Chicago Bulls,40,42,.488,19.0,x,1986
+2290,9,Cleveland Cavaliers,31,51,.378,28.0,,1986
+2291,10,New Jersey Nets,24,58,.293,35.0,,1986
+2292,11,New York Knicks,24,58,.293,35.0,,1986
+2293,,Team,W,L,Pct,GB,,1986
+2294,1,Dallas Mavericks,55,27,.671,-,x,1986
+2295,2,Utah Jazz,44,38,.537,11.0,x,1986
+2296,3,Houston Rockets,42,40,.512,13.0,x,1986
+2297,4,Denver Nuggets,37,45,.451,18.0,x,1986
+2298,5,Sacramento Kings,29,53,.354,26.0,,1986
+2299,6,San Antonio Spurs,28,54,.341,27.0,,1986
+2300,,Team,W,L,Pct,GB,,1986
+2301,1,Los Angeles Lakers,65,17,.793,-,x,1986
+2302,2,Portland Trail Blazers,49,33,.598,16.0,x,1986
+2303,3,Golden State Warriors,42,40,.512,23.0,x,1986
+2304,4,Seattle Supersonics,39,43,.476,26.0,x,1986
+2305,5,Phoenix Suns,36,46,.439,29.0,,1986
+2306,6,Los Angeles Clippers,12,70,.146,53.0,,1986
+2307,,Team,W,L,Pct,GB,,1986
+2308,1,Boston Celtics,59,23,.720,-,x,1986
+2309,2,Philadelphia 76ers,45,37,.549,14.0,x,1986
+2310,3,Washington Bullets,42,40,.512,17.0,x,1986
+2311,4,New Jersey Nets,24,58,.293,35.0,,1986
+2312,5,New York Knicks,24,58,.293,35.0,,1986
+2313,,Team,W,L,Pct,GB,,1986
+2314,1,Atlanta Hawks,57,25,.695,-,x,1986
+2315,2,Detroit Pistons,52,30,.634,5.0,x,1986
+2316,3,Milwaukee Bucks,50,32,.610,7.0,x,1986
+2317,4,Indiana Pacers,41,41,.500,16.0,x,1986
+2318,5,Chicago Bulls,40,42,.488,17.0,x,1986
+2319,6,Cleveland Cavaliers,31,51,.378,26.0,,1986
+2320,,Team,W,L,Pct,GB,,1985
+2321,1,Los Angeles Lakers,62,20,.756,-,x,1985
+2322,2,Houston Rockets,51,31,.622,11.0,x,1985
+2323,3,Denver Nuggets,47,35,.573,15.0,x,1985
+2324,4,Dallas Mavericks,44,38,.537,18.0,x,1985
+2325,5,Utah Jazz,42,40,.512,20.0,x,1985
+2326,6,Portland Trail Blazers,40,42,.488,22.0,x,1985
+2327,7,Sacramento Kings,37,45,.451,25.0,x,1985
+2328,8,San Antonio Spurs,35,47,.427,27.0,x,1985
+2329,9,Phoenix Suns,32,50,.390,30.0,,1985
+2330,10,Los Angeles Clippers,32,50,.390,30.0,,1985
+2331,11,Seattle Supersonics,31,51,.378,31.0,,1985
+2332,12,Golden State Warriors,30,52,.366,32.0,,1985
+2333,,Team,W,L,Pct,GB,,1985
+2334,1,Boston Celtics,67,15,.817,-,x,1985
+2335,2,Milwaukee Bucks,57,25,.695,10.0,x,1985
+2336,3,Philadelphia 76ers,54,28,.659,13.0,x,1985
+2337,4,Atlanta Hawks,50,32,.610,17.0,x,1985
+2338,5,Detroit Pistons,46,36,.561,21.0,x,1985
+2339,6,Washington Bullets,39,43,.476,28.0,x,1985
+2340,7,New Jersey Nets,39,43,.476,28.0,x,1985
+2341,8,Chicago Bulls,30,52,.366,37.0,x,1985
+2342,9,Cleveland Cavaliers,29,53,.354,38.0,,1985
+2343,10,Indiana Pacers,26,56,.317,41.0,,1985
+2344,11,New York Knicks,23,59,.280,44.0,,1985
+2345,,Team,W,L,Pct,GB,,1985
+2346,1,Houston Rockets,51,31,.622,-,x,1985
+2347,2,Denver Nuggets,47,35,.573,4.0,x,1985
+2348,3,Dallas Mavericks,44,38,.537,7.0,x,1985
+2349,4,Utah Jazz,42,40,.512,9.0,x,1985
+2350,5,Sacramento Kings,37,45,.451,14.0,x,1985
+2351,6,San Antonio Spurs,35,47,.427,16.0,x,1985
+2352,,Team,W,L,Pct,GB,,1985
+2353,1,Los Angeles Lakers,62,20,.756,-,x,1985
+2354,2,Portland Trail Blazers,40,42,.488,22.0,x,1985
+2355,3,Phoenix Suns,32,50,.390,30.0,,1985
+2356,4,Los Angeles Clippers,32,50,.390,30.0,,1985
+2357,5,Seattle Supersonics,31,51,.378,31.0,,1985
+2358,6,Golden State Warriors,30,52,.366,32.0,,1985
+2359,,Team,W,L,Pct,GB,,1985
+2360,1,Boston Celtics,67,15,.817,-,x,1985
+2361,2,Philadelphia 76ers,54,28,.659,13.0,x,1985
+2362,3,Washington Bullets,39,43,.476,28.0,x,1985
+2363,4,New Jersey Nets,39,43,.476,28.0,x,1985
+2364,5,New York Knicks,23,59,.280,44.0,,1985
+2365,,Team,W,L,Pct,GB,,1985
+2366,1,Milwaukee Bucks,57,25,.695,-,x,1985
+2367,2,Atlanta Hawks,50,32,.610,7.0,x,1985
+2368,3,Detroit Pistons,46,36,.561,11.0,x,1985
+2369,4,Chicago Bulls,30,52,.366,27.0,x,1985
+2370,5,Cleveland Cavaliers,29,53,.354,28.0,,1985
+2371,6,Indiana Pacers,26,56,.317,31.0,,1985
+2372,,Team,W,L,Pct,GB,,1984
+2373,1,Los Angeles Lakers,62,20,.756,-,x,1984
+2374,2,Denver Nuggets,52,30,.634,10.0,x,1984
+2375,3,Houston Rockets,48,34,.585,14.0,x,1984
+2376,4,Dallas Mavericks,44,38,.537,18.0,x,1984
+2377,5,Portland Trail Blazers,42,40,.512,20.0,x,1984
+2378,6,Utah Jazz,41,41,.500,21.0,x,1984
+2379,7,San Antonio Spurs,41,41,.500,21.0,x,1984
+2380,8,Phoenix Suns,36,46,.439,26.0,x,1984
+2381,9,Kansas City Kings,31,51,.378,31.0,,1984
+2382,10,Seattle Supersonics,31,51,.378,31.0,,1984
+2383,11,Los Angeles Clippers,31,51,.378,31.0,,1984
+2384,12,Golden State Warriors,22,60,.268,40.0,,1984
+2385,,Team,W,L,Pct,GB,,1984
+2386,1,Boston Celtics,63,19,.768,-,x,1984
+2387,2,Milwaukee Bucks,59,23,.720,4.0,x,1984
+2388,3,Philadelphia 76ers,58,24,.707,5.0,x,1984
+2389,4,Detroit Pistons,46,36,.561,17.0,x,1984
+2390,5,New Jersey Nets,42,40,.512,21.0,x,1984
+2391,6,Washington Bullets,40,42,.488,23.0,x,1984
+2392,7,Chicago Bulls,38,44,.463,25.0,x,1984
+2393,8,Cleveland Cavaliers,36,46,.439,27.0,x,1984
+2394,9,Atlanta Hawks,34,48,.415,29.0,,1984
+2395,10,New York Knicks,24,58,.293,39.0,,1984
+2396,11,Indiana Pacers,22,60,.268,41.0,,1984
+2397,,Team,W,L,Pct,GB,,1984
+2398,1,Denver Nuggets,52,30,.634,-,x,1984
+2399,2,Houston Rockets,48,34,.585,4.0,x,1984
+2400,3,Dallas Mavericks,44,38,.537,8.0,x,1984
+2401,4,Utah Jazz,41,41,.500,11.0,x,1984
+2402,5,San Antonio Spurs,41,41,.500,11.0,x,1984
+2403,6,Kansas City Kings,31,51,.378,21.0,,1984
+2404,,Team,W,L,Pct,GB,,1984
+2405,1,Los Angeles Lakers,62,20,.756,-,x,1984
+2406,2,Portland Trail Blazers,42,40,.512,20.0,x,1984
+2407,3,Phoenix Suns,36,46,.439,26.0,x,1984
+2408,4,Seattle Supersonics,31,51,.378,31.0,,1984
+2409,5,Los Angeles Clippers,31,51,.378,31.0,,1984
+2410,6,Golden State Warriors,22,60,.268,40.0,,1984
+2411,,Team,W,L,Pct,GB,,1984
+2412,1,Boston Celtics,63,19,.768,-,x,1984
+2413,2,Philadelphia 76ers,58,24,.707,5.0,x,1984
+2414,3,New Jersey Nets,42,40,.512,21.0,x,1984
+2415,4,Washington Bullets,40,42,.488,23.0,x,1984
+2416,5,New York Knicks,24,58,.293,39.0,,1984
+2417,,Team,W,L,Pct,GB,,1984
+2418,1,Milwaukee Bucks,59,23,.720,-,x,1984
+2419,2,Detroit Pistons,46,36,.561,13.0,x,1984
+2420,3,Chicago Bulls,38,44,.463,21.0,x,1984
+2421,4,Cleveland Cavaliers,36,46,.439,23.0,x,1984
+2422,5,Atlanta Hawks,34,48,.415,25.0,,1984
+2423,6,Indiana Pacers,22,60,.268,37.0,,1984
+2424,,Team,W,L,Pct,GB,,1983
+2425,1,Los Angeles Lakers,54,28,.659,-,x,1983
+2426,2,Utah Jazz,45,37,.549,9.0,x,1983
+2427,3,Portland Trail Blazers,48,34,.585,6.0,x,1983
+2428,4,Dallas Mavericks,43,39,.524,11.0,x,1983
+2429,5,Seattle Supersonics,42,40,.512,12.0,x,1983
+2430,6,Phoenix Suns,41,41,.500,13.0,x,1983
+2431,7,Denver Nuggets,38,44,.463,16.0,x,1983
+2432,8,Kansas City Kings,38,44,.463,16.0,x,1983
+2433,9,Golden State Warriors,37,45,.451,17.0,,1983
+2434,10,San Antonio Spurs,37,45,.451,17.0,,1983
+2435,11,San Diego Clippers,30,52,.366,24.0,,1983
+2436,12,Houston Rockets,29,53,.354,25.0,,1983
+2437,,Team,W,L,Pct,GB,,1983
+2438,1,Boston Celtics,62,20,.756,-,x,1983
+2439,2,Milwaukee Bucks,50,32,.610,12.0,x,1983
+2440,3,Philadelphia 76ers,52,30,.634,10.0,x,1983
+2441,4,Detroit Pistons,49,33,.598,13.0,x,1983
+2442,5,New York Knicks,47,35,.573,15.0,x,1983
+2443,6,New Jersey Nets,45,37,.549,17.0,x,1983
+2444,7,Atlanta Hawks,40,42,.488,22.0,x,1983
+2445,8,Washington Bullets,35,47,.427,27.0,x,1983
+2446,9,Cleveland Cavaliers,28,54,.341,34.0,,1983
+2447,10,Chicago Bulls,27,55,.329,35.0,,1983
+2448,11,Indiana Pacers,26,56,.317,36.0,,1983
+2449,,Team,W,L,Pct,GB,,1983
+2450,1,Utah Jazz,45,37,.549,-,x,1983
+2451,2,Dallas Mavericks,43,39,.524,2.0,x,1983
+2452,3,Denver Nuggets,38,44,.463,7.0,x,1983
+2453,4,Kansas City Kings,38,44,.463,7.0,x,1983
+2454,5,San Antonio Spurs,37,45,.451,8.0,,1983
+2455,6,Houston Rockets,29,53,.354,16.0,,1983
+2456,,Team,W,L,Pct,GB,,1983
+2457,1,Los Angeles Lakers,54,28,.659,-,x,1983
+2458,2,Portland Trail Blazers,48,34,.585,6.0,x,1983
+2459,3,Seattle Supersonics,42,40,.512,12.0,x,1983
+2460,4,Phoenix Suns,41,41,.500,13.0,x,1983
+2461,5,Golden State Warriors,37,45,.451,17.0,,1983
+2462,6,San Diego Clippers,30,52,.366,24.0,,1983
+2463,,Team,W,L,Pct,GB,,1983
+2464,1,Boston Celtics,62,20,.756,-,x,1983
+2465,2,Philadelphia 76ers,52,30,.634,10.0,x,1983
+2466,3,New York Knicks,47,35,.573,15.0,x,1983
+2467,4,New Jersey Nets,45,37,.549,17.0,x,1983
+2468,5,Washington Bullets,35,47,.427,27.0,x,1983
+2469,,Team,W,L,Pct,GB,,1983
+2470,1,Milwaukee Bucks,50,32,.610,-,x,1983
+2471,2,Detroit Pistons,49,33,.598,1.0,x,1983
+2472,3,Atlanta Hawks,40,42,.488,10.0,x,1983
+2473,4,Cleveland Cavaliers,28,54,.341,22.0,,1983
+2474,5,Chicago Bulls,27,55,.329,23.0,,1983
+2475,6,Indiana Pacers,26,56,.317,24.0,,1983
+2476,,Team,W,L,Pct,GB,,1982
+2477,1,Los Angeles Lakers,58,24,.707,-,x,1982
+2478,2,San Antonio Spurs,53,29,.646,5.0,x,1982
+2479,3,Phoenix Suns,53,29,.646,5.0,x,1982
+2480,4,Seattle Supersonics,48,34,.585,10.0,x,1982
+2481,5,Portland Trail Blazers,46,36,.561,12.0,x,1982
+2482,6,Denver Nuggets,45,37,.549,13.0,x,1982
+2483,7,Kansas City Kings,45,37,.549,13.0,,1982
+2484,8,Dallas Mavericks,38,44,.463,20.0,,1982
+2485,9,Golden State Warriors,30,52,.366,28.0,,1982
+2486,10,Utah Jazz,30,52,.366,28.0,,1982
+2487,11,San Diego Clippers,25,57,.305,33.0,,1982
+2488,12,Houston Rockets,14,68,.171,44.0,,1982
+2489,,Team,W,L,Pct,GB,,1982
+2490,1,Philadelphia 76ers,65,17,.793,-,x,1982
+2491,2,Milwaukee Bucks,51,31,.622,14.0,x,1982
+2492,3,Boston Celtics,56,26,.683,9.0,x,1982
+2493,4,New Jersey Nets,49,33,.598,16.0,x,1982
+2494,5,New York Knicks,44,38,.537,21.0,x,1982
+2495,6,Atlanta Hawks,43,39,.524,22.0,x,1982
+2496,7,Washington Bullets,42,40,.512,23.0,,1982
+2497,8,Detroit Pistons,37,45,.451,28.0,,1982
+2498,9,Chicago Bulls,28,54,.341,37.0,,1982
+2499,10,Cleveland Cavaliers,23,59,.280,42.0,,1982
+2500,11,Indiana Pacers,20,62,.244,45.0,,1982
+2501,,Team,W,L,Pct,GB,,1982
+2502,1,San Antonio Spurs,53,29,.646,-,x,1982
+2503,2,Denver Nuggets,45,37,.549,8.0,x,1982
+2504,3,Kansas City Kings,45,37,.549,8.0,,1982
+2505,4,Dallas Mavericks,38,44,.463,15.0,,1982
+2506,5,Utah Jazz,30,52,.366,23.0,,1982
+2507,6,Houston Rockets,14,68,.171,39.0,,1982
+2508,,Team,W,L,Pct,GB,,1982
+2509,1,Los Angeles Lakers,58,24,.707,-,x,1982
+2510,2,Phoenix Suns,53,29,.646,5.0,x,1982
+2511,3,Seattle Supersonics,48,34,.585,10.0,x,1982
+2512,4,Portland Trail Blazers,46,36,.561,12.0,x,1982
+2513,5,Golden State Warriors,30,52,.366,28.0,,1982
+2514,6,San Diego Clippers,25,57,.305,33.0,,1982
+2515,,Team,W,L,Pct,GB,,1982
+2516,1,Philadelphia 76ers,65,17,.793,-,x,1982
+2517,2,Boston Celtics,56,26,.683,9.0,x,1982
+2518,3,New Jersey Nets,49,33,.598,16.0,x,1982
+2519,4,New York Knicks,44,38,.537,21.0,x,1982
+2520,5,Washington Bullets,42,40,.512,23.0,,1982
+2521,,Team,W,L,Pct,GB,,1982
+2522,1,Milwaukee Bucks,51,31,.622,-,x,1982
+2523,2,Atlanta Hawks,43,39,.524,8.0,x,1982
+2524,3,Detroit Pistons,37,45,.451,14.0,,1982
+2525,4,Chicago Bulls,28,54,.341,23.0,,1982
+2526,5,Cleveland Cavaliers,23,59,.280,28.0,,1982
+2527,6,Indiana Pacers,20,62,.244,31.0,,1982
+2528,,Team,W,L,Pct,GB,,1981
+2529,1,Los Angeles Lakers,57,25,.695,-,x,1981
+2530,2,San Antonio Spurs,48,34,.585,9.0,x,1981
+2531,3,Seattle Supersonics,52,30,.634,5.0,x,1981
+2532,4,Denver Nuggets,46,36,.561,11.0,x,1981
+2533,5,Phoenix Suns,46,36,.561,11.0,x,1981
+2534,6,Houston Rockets,46,36,.561,11.0,x,1981
+2535,7,Golden State Warriors,45,37,.549,12.0,,1981
+2536,8,Portland Trail Blazers,42,40,.512,15.0,,1981
+2537,9,Kansas City Kings,30,52,.366,27.0,,1981
+2538,10,Dallas Mavericks,28,54,.341,29.0,,1981
+2539,11,Utah Jazz,25,57,.305,32.0,,1981
+2540,12,San Diego Clippers,17,65,.207,40.0,,1981
+2541,,Team,W,L,Pct,GB,,1981
+2542,1,Boston Celtics,63,19,.768,-,x,1981
+2543,2,Milwaukee Bucks,55,27,.671,8.0,x,1981
+2544,3,Philadelphia 76ers,58,24,.707,5.0,x,1981
+2545,4,New Jersey Nets,44,38,.537,19.0,x,1981
+2546,5,Washington Bullets,43,39,.524,20.0,x,1981
+2547,6,Atlanta Hawks,42,40,.512,21.0,x,1981
+2548,7,Detroit Pistons,39,43,.476,24.0,,1981
+2549,8,Indiana Pacers,35,47,.427,28.0,,1981
+2550,9,Chicago Bulls,34,48,.415,29.0,,1981
+2551,10,New York Knicks,33,49,.402,30.0,,1981
+2552,11,Cleveland Cavaliers,15,67,.183,48.0,,1981
+2553,,Team,W,L,Pct,GB,,1981
+2554,1,San Antonio Spurs,48,34,.585,-,x,1981
+2555,2,Denver Nuggets,46,36,.561,2.0,x,1981
+2556,3,Houston Rockets,46,36,.561,2.0,x,1981
+2557,4,Kansas City Kings,30,52,.366,18.0,,1981
+2558,5,Dallas Mavericks,28,54,.341,20.0,,1981
+2559,6,Utah Jazz,25,57,.305,23.0,,1981
+2560,,Team,W,L,Pct,GB,,1981
+2561,1,Los Angeles Lakers,57,25,.695,-,x,1981
+2562,2,Seattle Supersonics,52,30,.634,5.0,x,1981
+2563,3,Phoenix Suns,46,36,.561,11.0,x,1981
+2564,4,Golden State Warriors,45,37,.549,12.0,,1981
+2565,5,Portland Trail Blazers,42,40,.512,15.0,,1981
+2566,6,San Diego Clippers,17,65,.207,40.0,,1981
+2567,,Team,W,L,Pct,GB,,1981
+2568,1,Boston Celtics,63,19,.768,-,x,1981
+2569,2,Philadelphia 76ers,58,24,.707,5.0,x,1981
+2570,3,New Jersey Nets,44,38,.537,19.0,x,1981
+2571,4,Washington Bullets,43,39,.524,20.0,x,1981
+2572,5,New York Knicks,33,49,.402,30.0,,1981
+2573,,Team,W,L,Pct,GB,,1981
+2574,1,Milwaukee Bucks,55,27,.671,-,x,1981
+2575,2,Atlanta Hawks,42,40,.512,13.0,x,1981
+2576,3,Detroit Pistons,39,43,.476,16.0,,1981
+2577,4,Indiana Pacers,35,47,.427,20.0,,1981
+2578,5,Chicago Bulls,34,48,.415,21.0,,1981
+2579,6,Cleveland Cavaliers,15,67,.183,40.0,,1981

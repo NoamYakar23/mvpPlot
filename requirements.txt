@@ -1,0 +1,9 @@
+urllib3
+requests
+bs4
+pandas
+matplotlib
+numpy
+dash
+statsmodels
+dash_bootstrap_components
