@@ -3,6 +3,21 @@
 
 The MVPlot dashboard is a visualization dashboard built using Python's Dash framework. It explores NBA MVP trends from 1981 to 2021. The code is written in Python and utilizes various libraries and modules for data manipulation, visualization, and building the web application.
 
+### Running the Dashboard
+
+The code runs the Dash app server, allowing the MVPlot dashboard to be accessed and explored in a web browser.
+
+
+##Step One: Install 
+
+'''
+
+
+
+'''
+
+
+
 ### Libraries and Modules Used
 
 The code imports the following libraries and modules:
@@ -47,13 +62,6 @@ The code sets up the MVPlot dashboard using the following steps:
 5. Defines the image path for the MVP trophy image.
 6. Creates the main content layout with a title, description, and image.
 
-### Running the Dashboard
-
-The code runs the Dash app server, allowing the MVPlot dashboard to be accessed and explored in a web browser.
-
----
-
-Please note that the provided code appears to be a fragment, and there may be additional parts not included in the provided code snippet.
 
 
 
