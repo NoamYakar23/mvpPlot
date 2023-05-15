@@ -13,15 +13,15 @@ If you'd like to build the application locally, it only takes two steps!
 
 **Step One:** Install requirements.txt
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 **Step Two:** Build the app with Python3 🐍
 
-'''
+```
 python3 app.py
-'''
+```
 
 If you'd like to see the site deployed and ready go here: https://mvpplot.onrender.com/
 
