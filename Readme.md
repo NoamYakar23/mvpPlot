@@ -23,8 +23,6 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-If you'd like to see the site deployed and ready go here: https://mvpplot.onrender.com/
-
 
 
 ### Libraries and Modules Used
