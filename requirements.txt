@@ -8,4 +8,4 @@ dash
 statsmodels
 dash_bootstrap_components
 gunicorn
-sklearn
+scikit-learn
