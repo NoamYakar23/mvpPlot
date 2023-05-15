@@ -119,7 +119,9 @@ theData = (
                                         """ \
                   I'm a huge NBA fan, and obviously quite interested in analytics, so as I heard \
                   the famous *NBA on TNT Crew* talking about how Jayson Tatum could be the MVP of the league, I wondered... \
-                  could I build a model to predict the next NBA MVP?
+                  could I build a model to predict the next NBA MVP? 
+                  
+                  * Update: Turns out I was wrong about JT, congrats Joel Embiid! Maybe with this new data I will be able to predict my next MVP :)
                   
                   What do we need to build this predictive model?
                  
