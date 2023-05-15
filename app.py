@@ -25,7 +25,7 @@ Standings["Team"] = Standings["Team"].str.lstrip(string.digits)
 
 topPerformers = pd.read_csv("Datasets/Top Performers.csv")
 app = Dash(external_stylesheets=[dbc.themes.COSMO])
-
+server = app.server
 
 SIDEBAR_STYLE = {
     "position": "fixed",
