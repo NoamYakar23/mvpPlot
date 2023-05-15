@@ -1,17 +1,28 @@
 from dash import Dash, html, dcc, Input, Output
 import dash
+import dash_table
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 from plotly.express import data
 import statsmodels.api as sm
 import plotly.express as px
+
+from sklearn.metrics import roc_curve, auc, f1_score
+
+import sklearn
+
 import pandas as pd
 from PIL import Image
 import string
 import time
+import numpy as np
+import pickle
 
 mvpVotingCSV = pd.read_csv("Datasets/MVPVotingHistory.csv")
+
+predCsv = pd.read_csv("Datasets/MvpVotingUpdatedJan14.csv")
+print(predCsv.columns)
 seasonStatsDf = pd.read_csv("Datasets/seasonStatsATY.csv")
 
 #Add winners column to csv
@@ -25,6 +36,7 @@ Standings["Team"] = Standings["Team"].str.lstrip(string.digits)
 
 topPerformers = pd.read_csv("Datasets/Top Performers.csv")
 app = Dash(external_stylesheets=[dbc.themes.COSMO])
+
 server = app.server
 
 SIDEBAR_STYLE = {
@@ -262,26 +274,345 @@ numericCols = [
 
 numeric_columns = mvpVotingCSV.select_dtypes(include=["float64", "int64"]).columns
 
-modelList = ['Logistic Regression', 'Support Vector Machines', 'K-Nearest Neighbors']
+modelList = ['Logistic Regression', 'Support Vector Machines', 'Decision Tree']
 
 
-modeling = html.Div(children = [
+modeling = html.Div(children=[
     sidebar,
     html.Div(
-            children=[
-                html.Label("Choose A Model"),
-                dcc.Dropdown(
-                    id="models",
-                    options=[{"label": i, "value": i} for i in  modelList],
-                    value="x",
-                ),
+        children=[
+            html.H2('Predict Your NBA MVP With Classification Models', style={"text-align": "center", "display": "flex", "justify-content": "center"}),
+            html.Label("Choose A Model"),
             
-            ],
-            style=CONTENT_STYLE,
-        )
-    ]
+            dcc.Dropdown(
+                id="models",
+                options=[{"label": i, "value": i} for i in modelList],
+                value="x",
+            ),
+            
+            html.Div(id='rocCurve'),
+           
+            html.Div(style={"margin": "20px"}),
+            html.Label("Input Your Player's Statistics"),
+            html.Div(
+                children=[
+                    html.Div(
+                        children=[
+                            dcc.Input(
+                                id="games-played-input",
+                                type="number",
+                                placeholder="Games Played",
+                                min=0,
+                                max=82,
+                            ),
+                            dcc.Input(
+                                id="minutes-played-input",
+                                type="number",
+                                placeholder="Minutes Played",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="pts-input",
+                                type="number",
+                                placeholder="PTS",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="trb-input",
+                                type="number",
+                                placeholder="TRB",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="ast-input",
+                                type="number",
+                                placeholder="AST",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="stl-input",
+                                type="number",
+                                placeholder="STL",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="blk-input",
+                                type="number",
+                                placeholder="BLK",
+                                min=0,
+                            ),
+                            dcc.Input(
+                                id="fgp-input",
+                                type="number",
+                                placeholder="FG%",
+                                min=0,
+                                max=1,
+                            ),
+                            dcc.Input(
+                                id="ftp-input",
+                                type="number",
+                                placeholder="FT%",
+                                min=0,
+                                max=1,
+                            ),
+                            dcc.Input(
+                                id="ws-input",
+                                type="number",
+                                placeholder="WS",
+                            ),
+                            dcc.Input(
+                                id="ws48-input",
+                                type="number",
+                                placeholder="WS/48",
+                            ),
+                            dcc.Input(
+                                id="year-input",
+                                type="number",
+                                placeholder="Year",
+                                min=1980,
+                                max=2021,
+                            ),
+                            dcc.Input(
+                                id="w-input",
+                                type="number",
+                                placeholder="W",
+                                min=0,
+                                max=82,
+                            ),
+                            dcc.Input(
+                                id="l-input",
+                                type="number",
+                                placeholder="L",
+                                min=0,
+                                max=82,
+                            ),
+                        ],
+                        style={"display": "flex", "flex-direction": "column", "width": "150px"},
+                    ),
+                    html.Div(
+                        children=[
+                            html.Div(id="modelOutput", style={
+        'textAlign': 'center'
+    }),
+                        ],
+                        style={"display": "flex", "flex-direction": "column", "margin-left": "15px"},
+                    ),
                     
+                    
+                    
+                    
+                ],
+                style={"display": "flex"},
+            ),
+        ],
+        style=CONTENT_STYLE,
+    ),
+])
+
+
+
+
+@app.callback(
+    Output("rocCurve", "children"), 
+    Input("models","value")
 )
+def update_figure(model):
+    
+    dataInput = predCsv[['Player', 'G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L', 'Won Mvp']]
+    X = dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']]
+    y = dataInput['Won Mvp']
+    
+    if model == "Logistic Regression":  
+        with open('logReg.pkl','rb') as file:
+            mod = pickle.load(file)
+        y_pred = mod.predict_proba(X)[:, 1]
+        f1 = f1_score(y, mod.predict(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']]))
+        
+        
+    elif model == "Support Vector Machines":
+        with open('svm.pkl','rb') as file:
+            mod = pickle.load(file)
+        y_pred = mod.predict_proba(X)[:, 1]
+
+        f1 = f1_score(y, mod.predict(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']]))
+        
+    elif model == "Decision Tree":
+        with open('nb.pkl','rb') as file:
+            mod = pickle.load(file)
+        y_pred = mod.predict_proba(X)[:, 1]
+    
+        f1 = f1_score(y, mod.predict(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']]))
+        
+    fpr, tpr, thresholds = roc_curve(y, y_pred)
+    roc_auc = auc(fpr, tpr)
+    
+    return dcc.Graph(
+        id="roc-curve",
+        figure={
+            "data": [
+                go.Scatter(
+                    x=fpr,
+                    y=tpr,
+                    mode="lines",
+                    line=dict(color="darkorange"),
+                    name="ROC curve (area = %0.2f)" % roc_auc,
+                ),
+                go.Scatter(
+                    x=[0, 1],
+                    y=[0, 1],
+                    mode="lines",
+                    line=dict(color="navy", dash="dash"),
+                    showlegend=False,
+                ),
+            ],
+            "layout": go.Layout(
+                title="Receiver operating characteristic (ROC) Curve",
+                xaxis=dict(title="False Positive Rate"),
+                yaxis=dict(title="True Positive Rate"),
+                margin=dict(l=40, r=40, t=40, b=40),
+                legend=dict(x=0, y=1),
+                annotations=[
+                    dict(x=0.5, y=0.5,
+                         text='F1-score: {:.2f}'.format(f1),
+                         font=dict(size=18),
+                         showarrow=False,
+    
+                         bgcolor='white',
+                         bordercolor='black',
+                         borderwidth=1,
+                         borderpad=2,
+                         opacity=0.7
+                    )
+                ],
+            ),
+        },
+    )
+
+
+@app.callback(Output("modelOutput", "children"), 
+              Input("games-played-input", "value"),
+              Input('minutes-played-input', "value"),
+              Input('l-input', "value"),
+              Input('w-input', "value"),
+              Input('year-input', "value"),
+              Input('ws48-input', "value"),
+              Input('ws-input', "value"),
+              Input('fgp-input', "value"),
+              Input('ftp-input', "value"),
+              Input('blk-input', "value"),
+              Input('stl-input', "value"),
+              Input('ast-input', "value"),
+              Input('trb-input', "value"),
+              Input('pts-input', "value"),
+              Input("models","value"))
+def update_figure(gamesPlayed, minutesPlayed, losses, wins, year, ws48, ws, fg,ft, blk, stl, ast, trb, pts, model):
+    filtered_df = predCsv[predCsv["Year"] == year]
+    time.sleep(3)
+    if all(variable is not None for variable in [gamesPlayed, minutesPlayed, losses, wins, year, ws48, ws, fg, ft, blk, stl, ast, trb, pts]):
+        print("Variables not None!")
+
+        #append new data point to dataset
+        dataInput = filtered_df[['Player','G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L','Won Mvp']]
+
+        
+        
+        new_data_point = {
+            'G': gamesPlayed,
+            'MP': minutesPlayed,
+            'PTS': pts,
+            'TRB': trb,
+            'AST': ast,
+            'STL': stl,
+            'BLK': blk,
+            'FG%': fg,
+            'FT%': ft,
+            'WS': ws,
+            'WS/48': ws48,
+            'Year': year,
+            'W': wins,
+            'L': losses,
+            'Player':'Your Player',
+            'Won Mvp':'N/A'
+        }
+        
+        dataInput = dataInput.append(new_data_point,  ignore_index=True)
+        
+        if model == "Logistic Regression":  
+            with open('logReg.pkl','rb') as file:
+                mod = pickle.load(file)    
+               
+                yPred = mod.predict_proba(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']])
+        
+        elif model == "Support Vector Machines":
+            with open('svm.pkl','rb') as file:
+                mod = pickle.load(file)
+                yPred = mod.predict_proba(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']])
+        
+             
+        
+        elif model == "Decision Tree":
+            with open('nb.pkl','rb') as file:
+                mod = pickle.load(file)
+                yPred = mod.predict_proba(dataInput[['G', 'MP', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'FG%', 'FT%', 'WS', 'WS/48', 'Year', 'W', 'L']])
+
+       
+        
+        
+        
+    
+        
+        table_data = dataInput[['Player','PTS', 'TRB', 'AST', 'STL', 'BLK', 'Won Mvp']].copy()
+        table_data['Probability to win MVP'] = yPred[:, 1] # Add column for probability to win MVP
+        
+        
+        # Sort table by probability to win MVP in descending order
+        table_data = table_data.sort_values('Probability to win MVP', ascending=False)
+        
+        # Create Dash table
+        table = dash_table.DataTable(
+    id='model-table',
+    columns=[{"name": i, "id": i} for i in table_data.columns],
+    data=table_data.round(3).to_dict('records'),
+    style_table={
+        'border': '1px solid black',
+        'borderCollapse': 'collapse',
+        'width': '100%',
+        'minWidth': '100%',
+        'maxWidth': '100%',
+        'margin':'auto'
+    },
+    style_cell={
+        'textAlign': 'center',
+        'whiteSpace': 'normal',
+        'height': 'auto'
+    },
+    style_data_conditional=[
+        {
+            'if': {'row_index': 'odd'},
+            'backgroundColor': 'rgb(248, 248, 248)'
+        },
+        {
+            'if': {'state': 'selected'},
+            'backgroundColor': 'rgb(217, 217, 217)',
+            'border': '1px solid rgb(0, 0, 0)'
+        },
+    ],
+)
+        
+        # Create bar chart with top 5 predictions
+
+        return [
+            html.H2('Model Predictions'),
+            html.Div(table),
+
+        ]
+
+
+# @app.callback(Output("modelPredictions", "children"), Input("models", "value"))
+# def update_figure(model):
+    
+
+
 
 # Define the callback function to display the inputs
 @app.callback(
