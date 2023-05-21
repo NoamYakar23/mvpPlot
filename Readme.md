@@ -25,6 +25,22 @@ python3 app.py
 
 
 
+### The Application
+
+**Home Page**
+<img width="1269" alt="Screen Shot 2023-05-15 at 13 04 09" src="https://github.com/NoamYakar23/mvpPlot/assets/75957506/2bad2086-3039-4d85-9c3f-97548da0c745">
+
+**Visualization Page**
+
+<img width="1255" alt="Screen Shot 2023-05-15 at 13 03 59" src="https://github.com/NoamYakar23/mvpPlot/assets/75957506/b28d5343-e1fd-4268-b7f6-f8cef5154860">
+
+
+**Statistical Modeling**
+
+<img width="1272" alt="Screen Shot 2023-05-15 at 13 03 37" src="https://github.com/NoamYakar23/mvpPlot/assets/75957506/79092d36-9f58-4d23-8c3a-6d2b557f2bb4">
+
+
+
 ### Libraries and Modules Used
 
 The code imports the following libraries and modules:
